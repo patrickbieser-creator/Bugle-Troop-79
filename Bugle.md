@@ -8,72 +8,134 @@ title: "Troop 79 Bugle"
 [Subscribe](https://sites.google.com/view/bsatroop79bg/home/bugle-calendar-subscription) to the Bugle Calendar to sync with Google, Apple, or Outlook calendars.
 
 ## Troop Meeting This Sunday  
-**Sunday**, March 15, 2026, **4:00–5:30**  
-**Uniform:** Class A Uniform  
-![Class B Uniform](https://Troop79.b-cdn.net/Class-A-Uniform.png){.scout-img-40}
+**Sunday**, March 22, 2026, **4:00–5:30**  
+**Uniform:** Class B Uniform  
+![Class B Uniform](https://Troop79.b-cdn.net/Class-B-Uniform.png){.scout-img-40}
 **Location:** Northwoods 1572 E Capitol Drive  
 **Snack:** Popcorn  
-**Flag Ceremony:** Kraken  
-**Cleanup:** Shooting Stars  
+**Flag Ceremony:** Fire Quacker  
+**Cleanup:** Screaming Eagles  
 [Weekly Duty Roster](https://docs.google.com/document/d/1DYRx1tyAIMnwcLdBoWAY3hvO4EfHDTbe5_n9B_bed70/edit?tab=t.0)  
+
+#### Early Advancement Extra (1:30)
+Patrick will be at Northwoods starting at 1:30 to work with any scout, 8th grade or above, who would like to catch-up on 2nd Class or 1st Class requirements. Text Patrick (414-915-6423) if you plan to arrive early, before the regular troop meeting, to work on rank advancement. This is 100% optional.
 
 ### Meeting Plan   
 
+#### Flag Ceremony and Messages (4:00)
+  
+#### Patrol Meetings (4:10)
+Patrol members will meet with their patrol leader to discuss and vote on the project the Troop will as part of the upcoming Woodworking Merit Badge. The PLs will report the votes to the SPL. The troop will then go to the 3rd floor to spend 15 minutes getting the room ready for Woodworking MB in April. 
 
-#### OA Elections (4:00)
-The Order of the Arrow (OA) is Scouting’s National Honor Society. The OA honors the best scouts in each Troop. Scouts are elected into the OA by their fellow scouts. To be eligible, a scout must be under 21-year-old, have 15 nights of camping, and have earned the rank of 1st Class. The OA:
-1. Recognizes those campers who best exemplify the Scout Oath and Law in their daily lives
-1. Develops and maintains camping traditions and spirit.
-1. Promotes Scout camping, both year-round and in the summer camp,
-1. Crystallizes the Scout habit of helpfulness into a life purpose of leadership in cheerful service to others. 
+#### Troop Project (4:20)
+The troop will head up to the 3rd floor to spend 15 minutes getting the room ready for Woodworking MB in April. There are tarps to fold and some stuff to move. Won't take long.
 
-Scouts eligible for the OA:  Finn Paltzer, Hazel Stollenwerk, Jack Porter, and Oliver Vest  
-Scouts previously elected to the OA:  Maya Lynn Sankpal-Tatera, Ronnie Kleinfeldt, and Rose Manning
+#### Tot'n Chip / Open Advancement (4:40)
+- Scouts who have not yet attended Summer Camp will earn their **Tot'n Chip Award** so they are ready to participate in Woodworking Merit Badge.
+- Scouts not doing Tot'n Chip will work on Tenderfoot, 2nd Class and 1st Class requirements. 
 
-#### Patrol Leader Elections (4:20)
-After discussion between the SPL, scouts, and adult leaders, the patrols for 2026 has been finalized. 
+#### Citizenship in the World (4:40)
 
-[![Patrols March 2026](https://Troop79.b-cdn.net/Patrols-March-2026.png){.img-400}](https://docs.google.com/document/d/1GhzmTg7D__IV_bf08HFSa-9ZTHCJHXKx20zsMo05R0M/edit?tab=t.0)
+- Older scouts met last week and completed requirement 6 with Nina Bendre for **Citizenship in the World**. These scouts will report on their progress on requirement 7 (see below).
+  - Anjali Sankpal-Tatera
+  - Finn Paltzer
+  - Hazel Stollenwerk
+  - Henry Ellerman
+  - Jack Porter
+  - Maya Lynn Sankpal-Tatera
+  - Ronnie Kleinfeldt  
 
-This Sunday, each patrol will elect it's patrol leader (not one of the Troop Guides) and decide if they want to keep their patrol name or change it. The elections will be held at the meeting this Sunday after the OA elections.  
+- Requirement 7: *Do Two of The Following*  
+  - a. Visit the Web site of the U.S. State Department. Learn more about an issue you find interesting that is discussed on this Web site.  
+  - b. Visit the Web site of an international news organization or foreign government, OR examine a foreign newspaper available at your local library, bookstore, or
+  newsstand.   Find a news story about a human right realized in the United States that is not recognized in another country.  
+  - c. Visit with a student or Scout from another country and discuss the typical values, holidays, ethnic foods, and traditions practiced or enjoyed there.  
+  - d. Attend a world Scout jamboree.  
+  - e. Participate in or attend an international event in your area, such as an ethnic festival, concert, or play.  
 
-#### Troop Guides
+- [Citizenship in the World Progress Tracking and Requirements](https://docs.google.com/spreadsheets/d/11PgPevMyDPninIWf1jCdaerGbSnYAJqvwqJLyBSyhHI/edit?gid=0#gid=0)  
 
-The TG next to the names of older scouts stands for Troop Guide. Scouts in this leadership role act as mentors to the patrol leader and members of the patrol, helping to guide and develop patrols within the troop. They help support the newer scouts by providing guidance and leadership alongside the patrol leader. 
+## Election Results
 
-#### Open Advancement (4:45)
-- Younger Scouts will work on Tenderfoot, 2nd Class and 1st Class requirements. 
+### Order of the Arrow
+Congratulations to the following scouts who were elected to the Order of the Arrow at the Troop meeting last week. 
 
-#### Citizenship in the World (4:45)
-Older scouts met last week and completed requirements 3a, 3b, and 4a for Citizenship in the World merit badge. These scouts agreed to work on requirement 4c (see below) and should bring a brief report on two of the organizations listed below to the meeting on Sunday to share with the group.
-
-- Anjali Sankpal-Tatera
-- Jack Porter
 - Finn Paltzer
-- Henry Ellerman
-- Ronnie Kleinfeldt
 - Hazel Stollenwerk
-- Maya Lynn
+- Jack Porter 
+- Oliver Vest 
 
-Requirement 6: *Do The Following*
-  6a. Explain how a government is represented abroad and how the United States government is accredited to international organizations.
-  6b. Describe the roles of the following in the conduct of foreign relations.
-    1. Ambassador
-    2. Consul
-    3. Bureau of International Information Programs
-    4. Agency for International Development
-    5. United States and Foreign Commercial Service
-  6c. Explain the purpose of a passport and visa for international travel.
+The Order of the Arrow (OA) is Scouting’s National Honor Society. Scouts are elected by their peers to recognize those who exemplify the Scout Oath and Law in their daily lives, promote camping, and crystallize the habits of helpfulness and leadership in cheerful service to others.
 
-[Citizenship in the World Progress Tracking and Requirements](https://docs.google.com/spreadsheets/d/11PgPevMyDPninIWf1jCdaerGbSnYAJqvwqJLyBSyhHI/edit?gid=0#gid=0)  
+Scouts previously elected to the OA: 
+- Kevin Pieper
+- Maya Lynn Sankpal-Tatera
+- Ronnie Kleinfeldt
+- Rose Manning
 
-## Summer Camp Program Signup Starts Today
+### Patrol Leaders 
+Congratulations to Anjali Sankpal-Tatera, Henry Ellerman, Solomon Rader, and Lee Pasek who were elected Patrol Leaders of their respective patrols. All the patrols also voted to keep their patrol names the same. 
+
+[![Patrols March 15, 2026](https://Troop79.b-cdn.net/PatrolsMarch15-26.png){.img-400}](https://docs.google.com/document/d/1GhzmTg7D__IV_bf08HFSa-9ZTHCJHXKx20zsMo05R0M/edit?tab=t.0)
+
+## Advancement Report  
+  
+### Ranks Completed
+- None this week
+
+### Merit Badges Completed
+- None this week
+
+### Merit Badge Requirements Completed
+- **Citizenship in the World 4c**
+  - Anjali Sankpal-Tatera
+  - Jack Porter
+  - Henry Ellerman
+  - Ronnie Kleinfeldt
+  - Maya Lynn
+  - Hazel Stollenwerk
+
+### Rank Requirements Completed
+
+- **Second Class 8c** — Plan and budget for an item
+  - Damian Nikolaus
+  - Lee Pasek
+
+- **Second Class 8d** — Buy the item
+  - Damian Nikolaus
+
+- **First Class 3b** — Timber Hitch / Clove Hitch
+  - Anita Bendre
+  - Damian Nikolaus
+  - Lee Pasek
+  - Owen Radtke
+  - Solomon Rader
+
+- **First Class 3** — Square Lashing
+  - Anita Bendre
+  - Damian Nikolaus
+  - Lee Pasek
+  - Owen Radtke
+  - Solomon Rader
+
+- **First Class 3** — Diagonal Lashing
+  - Anita Bendre
+  - Damian Nikolaus
+
+- **First Class 3** — Sheer Lashing
+  - Anita Bendre
+  
+- **First Class 3c** — Demonstrate Three Lashings
+  - Anita Bendre
+
+
+## Summer Camp Program Signup has started
 
 Click the images below to see the offerings:
 
 Click here for: [Summer Camp Programming Selection Form](https://docs.google.com/forms/d/e/1FAIpQLScEpn2V1EM4zXC3T_l8wXXkLp_o-czfkrjqE2NZHJvnVNlUAQ/viewform)
 
-Here are the assignements suggested for each scout: 
+Here are the assignments suggested for each scout: 
 
 [![Summer Camp Merit Badge Selection Form](https://Troop79.b-cdn.net/Tesomas-Assignements-MB-By-Year-2026.png){.img-400}](https://Troop79.b-cdn.net/Tesomas-Assignements-MB-By-Year-2026.png)
 
@@ -119,81 +181,14 @@ The National Forest Services has produced a series of videos that are required v
 
 [![BWCA Visitor Video](https://Troop79.b-cdn.net/BWCA-Viiitor-Video.png){.img-600}](https://www.youtube.com/watch?v=nen7lRqEjm8)  
 
-## Advancement Report  
-  
-### Ranks Completed
-- **Tenderfoot** Jameson Kimble
-
-### Merit Badges Completed
-- None this week
-
-### Merit Badge Requirements Completed
-- **Citizenship in the World 4c**
-  - Anjali Sankpal-Tatera
-  - Jack Porter
-  - Henry Ellerman
-  - Ronnie Kleinfeldt
-  - Maya Lynn
-  - Hazel Stollenwerk
-
-### Rank Requirements Completed
-
-- **Tenderfoot 1a, 1b, 1c, 2a, 2b, 2c, 3a, 3b, 3b, 3c, 3d, 4c** — Tenderfoot Requirements
-  - Ben Bieser
-- **Tenderfoot 3d** — Knife, saw & ax care/sharpening/use
-  - Ben Bieser
-  - Isaac Hall
-- **Tenderfoot 4c** — Accident & injury prevention on campouts
-  - Ben Bieser
-  - Jameson Kimble
-- **Tenderfoot 10** — Scoutmaster conference
-  - Jameson Kimble
-
-- **Second Class 1b** — Leave No Trace principles
-  - Ben Bieser
-  - Jameson Kimble
-- **Second Class 1c** — Patrol site selection
-  - Ben Bieser
-  - Oscar Belle
-- **Second Class 2b** — Prepare tinder, kindling & fuel wood
-  - Ben Bieser
-- **Second Class 2c** — Build & extinguish a fire
-  - Ben Bieser
-- **Second Class 2e** — Plan & cook a hot meal
-  - Ben Bieser
-- **Second Class 6d** — Emergency response procedures
-  - Eleanor Hooper
-  - Owen Radtke
-  - Robbie Haessley
-- **Second Class 6e** — Respond to vehicular accident
-  - Eleanor Hooper
-  - Lilly Porter
-  - Owen Radtke
-  - Robbie Haessley
-  - Solomon Rader
-- **Second Class 8a** — Flag ceremony participation
-  - Ben Bieser
-  - Eleanor Hooper
-  - Lilly Porter
-  - Owen Radtke
-  - Robbie Haessley
-- **Second Class 8b** — Respect due the U.S. flag
-  - Eleanor Hooper
-  - Lilly Porter
-  - Owen Radtke
-  - Robbie Haessley
-- **Second Class 9b** — Bullying response
-  - Oscar Belle
-
-- **First Class 1b** — Tread Lightly! principles
-  - Ben Bieser
-  - Jameson Kimble
-  - Oscar Belle
-- **First Class 10** — Scout recruitment
-  - Oscar Belle
 
  
 ## Check Your Clipboard
+
+Nate Vest, with a little help from AI, vibe coded an experimental website that offers an interactive view of each scout's advancement. Let us know if this is useful, if there are any features you would like to see added, or if any information missing or incorrect. Thanks!
+
+[![Troop Advancement Portal](https://Troop79.b-cdn.net/AdvancmentPortal.png){.img-600}](https://benevolent-mochi-e88c05.netlify.app/)  
+
 
 Click the name to view Advancement Clipboards as of **3/7/26**.
 
@@ -315,18 +310,16 @@ After you read the requirements online contact Becky Vest at rlvest76@gmail.com 
 
 Requirements List: https://www.Scouting.org/merit-badges/personal-fitness/
 
-Reading pages 47-86 of the Merit Badge phamphlet (same link as above) provides much of the information you need to complete these requirements successfully.
-
+Reading pages 47-86 of the Merit Badge pamphlet (same link as above) provides much of the information you need to complete these requirements successfully.
 
 
 ## Sparklers
 
-- Sally worked at the fertilzer plant. We never met. But ma knew her.
-- I was detained when I was younger for stealing batteries. It turned out ok. I was never charged.
-- To whoever stole my Microsoft Office, I will find you. You have my Word.
-- My daughter was doing her homework and asked me what I knew about Galileo. I said he was just a poor boy from a poor family.
-- I received a letter trying to sell me a heavy duty metal vest. I ignored it. I hate chainmail.
-- How do you console an English teacher? There, their, they're.
+- I always use a step-ladder, because my real ladder left when I was just a kid.
+- If you're cold inside your house just stand in the corner. It's always 90 degrees there.
+- I just thought of an Elton John joke. It's a little bit funny...
+- If you bought a sweet car online, can you guess who might have been the owner? 
+- Over 100 years ago, two brothers announced they could fly. Turns out they were Wright.
 
 
 ---
