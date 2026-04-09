@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Troop 79 Public Website &mdash; Project Plan</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --nws-green:      #88ac3e;
+      --nws-gray-logo:  #81827e;
+      --nws-teal-dark:  #064347;
+      --nws-forest:     #5a6e3c;
+      --nws-gold:       #ddb027;
+      --nws-teal:       #418c7d;
+      --nws-slate:      #4c7887;
+      --nws-rust:       #a95b28;
+      --nws-olive:      #9fa538;
+      --nws-lt-green:   #86aa3f;
+      --nws-gray-dark:  #4b4b4b;
+      --nws-gray-med:   #7e7e7e;
+      --nws-black:      #000000;
+      --nws-pale-green: #e1e6d2;
+      --nws-pale-sage:  #d7e1d7;
+      --nws-cream:      #f0eecd;
+      --nws-off-white:  #e1d7c3;
+      --nws-pale-blue:  #c8dcdc;
+      --nws-gray-light: #e6e6e6;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: "Montserrat", Arial, sans-serif;
+      font-size: 14px;
+      color: var(--nws-gray-dark);
+      background: var(--nws-pale-green);
+    }
+
+    /* ── Header ── */
+    .BlueBlock {
+      background: var(--nws-teal-dark);
+      padding: 48px 80px;
+      color: white;
+    }
+    .BlueBlock h1 {
+      font-size: 36px;
+      font-weight: 500;
+      margin-bottom: 8px;
+    }
+    .BlueBlock .subtitle {
+      font-size: 14px;
+      font-weight: 300;
+      opacity: 0.85;
+    }
+    .BlueBlock .meta {
+      margin-top: 20px;
+      font-size: 13px;
+      font-weight: 300;
+      opacity: 0.7;
+    }
+
+    /* ── Grey Stripe ── */
+    .GreyStripe {
+      background: var(--nws-gray-light);
+      padding: 14px 80px;
+      font-size: 13px;
+      color: var(--nws-gray-med);
+      border-bottom: 1px solid #ccc;
+    }
+    .GreyStripe a { color: var(--nws-teal-dark); text-decoration: none; }
+    .GreyStripe a:hover { text-decoration: underline; }
+
+    /* ── Body ── */
+    .page-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 48px 80px 80px;
+    }
+
+    /* ── Sections ── */
+    .section {
+      margin-bottom: 40px;
+    }
+    .section h2 {
+      font-size: 36px;
+      font-weight: 500;
+      color: var(--nws-teal-dark);
+      border-bottom: 2px solid var(--nws-green);
+      padding-bottom: 8px;
+      margin-bottom: 20px;
+    }
+    .section h3 {
+      font-size: 24px;
+      font-weight: 400;
+      color: var(--nws-teal-dark);
+      margin: 24px 0 10px;
+    }
+    .section h5 {
+      font-size: 18px;
+      font-weight: 500;
+      color: var(--nws-forest);
+      margin: 16px 0 8px;
+    }
+
+    p {
+      font-family: "Libre Baskerville", "Times New Roman", serif;
+      font-size: 14px;
+      line-height: 1.7;
+      color: var(--nws-gray-dark);
+      margin-bottom: 12px;
+    }
+
+    /* ── Cards ── */
+    .card {
+      background: white;
+      border: 1px solid var(--nws-gray-light);
+      margin-bottom: 16px;
+      padding: 20px 24px;
+    }
+    .card-teal    { border-top: 4px solid var(--nws-teal-dark); }
+    .card-green   { border-top: 4px solid var(--nws-green); }
+    .card-gold    { border-top: 4px solid var(--nws-gold); }
+    .card-slate   { border-top: 4px solid var(--nws-slate); }
+    .card-rust    { border-top: 4px solid var(--nws-rust); }
+
+    .card h5 { margin-top: 0; }
+    .card p:last-child { margin-bottom: 0; }
+
+    /* ── Page grid ── */
+    .page-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    /* ── Lists ── */
+    ul, ol {
+      margin: 8px 0 14px 0;
+      padding-left: 0;
+      list-style: none;
+    }
+    ul li, ol li {
+      font-family: "Libre Baskerville", "Times New Roman", serif;
+      font-size: 14px;
+      line-height: 1.7;
+      color: var(--nws-gray-dark);
+      padding-left: 18px;
+      position: relative;
+      margin-bottom: 4px;
+    }
+    ul li::before {
+      content: "–";
+      color: var(--nws-green);
+      position: absolute;
+      left: 0;
+      font-weight: 700;
+    }
+    ol {
+      counter-reset: ol-counter;
+    }
+    ol li {
+      counter-increment: ol-counter;
+    }
+    ol li::before {
+      content: counter(ol-counter) ".";
+      color: var(--nws-teal-dark);
+      font-family: "Montserrat", Arial, sans-serif;
+      font-weight: 700;
+      font-size: 12px;
+      position: absolute;
+      left: 0;
+    }
+
+    /* ── Badges ── */
+    .badge {
+      display: inline-block;
+      font-family: "Montserrat", Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 2px 7px;
+      color: white;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    .badge-new     { background: var(--nws-teal-dark); }
+    .badge-feature { background: var(--nws-green); }
+    .badge-polish  { background: var(--nws-gold); }
+    .badge-open    { background: var(--nws-rust); }
+
+    /* ── Phase table ── */
+    .phase-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 13px;
+    }
+    .phase-table th {
+      background: var(--nws-teal-dark);
+      color: white;
+      font-family: "Montserrat", Arial, sans-serif;
+      font-weight: 500;
+      padding: 10px 14px;
+      text-align: left;
+    }
+    .phase-table td {
+      padding: 9px 14px;
+      border-bottom: 1px solid var(--nws-gray-light);
+      vertical-align: top;
+      font-family: "Libre Baskerville", "Times New Roman", serif;
+    }
+    .phase-table tr:nth-child(even) td { background: var(--nws-pale-green); }
+    .phase-table tr:last-child td { border-bottom: none; }
+
+    /* ── Stack table ── */
+    .stack-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 13px;
+    }
+    .stack-table th {
+      background: var(--nws-gray-light);
+      font-family: "Montserrat", Arial, sans-serif;
+      font-weight: 700;
+      color: var(--nws-teal-dark);
+      padding: 8px 14px;
+      text-align: left;
+      border-bottom: 2px solid var(--nws-green);
+    }
+    .stack-table td {
+      padding: 8px 14px;
+      border-bottom: 1px solid var(--nws-gray-light);
+      vertical-align: top;
+      font-family: "Libre Baskerville", "Times New Roman", serif;
+    }
+    .stack-table tr:last-child td { border-bottom: none; }
+    .stack-table .cost {
+      font-family: "Montserrat", Arial, sans-serif;
+      font-weight: 500;
+      color: var(--nws-forest);
+    }
+
+    /* ── Open questions ── */
+    .question-block {
+      background: var(--nws-cream);
+      border-left: 4px solid var(--nws-rust);
+      padding: 14px 18px;
+      margin-bottom: 12px;
+    }
+    .question-block p { margin-bottom: 0; }
+    .question-block .q-label {
+      font-family: "Montserrat", Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--nws-rust);
+      margin-bottom: 4px;
+    }
+
+    /* ── Footer ── */
+    footer {
+      background: var(--nws-gray-light);
+      border-top: 1px solid #ccc;
+      padding: 20px 80px;
+      font-size: 13px;
+      color: var(--nws-gray-med);
+      text-align: center;
+    }
+
+    code {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 12px;
+      background: var(--nws-pale-green);
+      color: var(--nws-forest);
+      padding: 1px 5px;
+      border: 1px solid var(--nws-gray-light);
+    }
+
+    .note {
+      background: var(--nws-pale-blue);
+      border-left: 4px solid var(--nws-slate);
+      padding: 12px 16px;
+      margin: 16px 0;
+    }
+    .note p { margin-bottom: 0; font-size: 13px; }
+
+    /* ── Reference grid ── */
+    .ref-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .ref-card {
+      background: white;
+      border: 1px solid var(--nws-gray-light);
+      border-top: 4px solid var(--nws-green);
+      display: flex;
+      flex-direction: column;
+    }
+    .ref-card > a {
+      display: block;
+      overflow: hidden;
+      height: 200px;
+      background: var(--nws-pale-green);
+      flex-shrink: 0;
+    }
+    .ref-card > a img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      object-position: top;
+      display: block;
+      transition: opacity 0.2s;
+    }
+    .ref-card > a img:hover { opacity: 0.85; }
+    .ref-body {
+      padding: 14px 16px 16px;
+      flex: 1;
+    }
+    .ref-badges { margin-bottom: 6px; }
+    .ref-body h5 {
+      margin: 4px 0 2px;
+      font-size: 16px;
+    }
+    .ref-body h5 a {
+      color: var(--nws-teal-dark);
+      text-decoration: none;
+    }
+    .ref-body h5 a:hover { text-decoration: underline; }
+    .ref-location {
+      font-family: "Montserrat", Arial, sans-serif;
+      font-size: 12px;
+      color: var(--nws-gray-med);
+      margin-bottom: 8px;
+    }
+    .ref-body ul { margin: 0; }
+    .ref-body ul li { font-size: 13px; margin-bottom: 2px; }
+
+    @media (max-width: 700px) {
+      .BlueBlock, .GreyStripe, .page-body, footer { padding-left: 24px; padding-right: 24px; }
+      .page-grid { grid-template-columns: 1fr; }
+      .ref-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="BlueBlock">
+  <h1>Troop 79 &mdash; Public Website</h1>
+  <div class="subtitle">Project Plan &amp; Requirements</div>
+  <div class="meta">BSA Troop 79 &thinsp;&middot;&thinsp; Milwaukee, Wisconsin &thinsp;&middot;&thinsp; Draft &thinsp;&middot;&thinsp; March 2026</div>
+</div>
+
+<div class="GreyStripe">
+  Jump to: <a href="#overview">Overview</a> &nbsp;&middot;&nbsp;
+  <a href="#pages">Pages &amp; Features</a> &nbsp;&middot;&nbsp;
+  <a href="#advancement">Advancement Module</a> &nbsp;&middot;&nbsp;
+  <a href="#calendar">Calendar</a> &nbsp;&middot;&nbsp;
+  <a href="#bugle">The Bugle</a> &nbsp;&middot;&nbsp;
+  <a href="#tech">Tech Stack</a> &nbsp;&middot;&nbsp;
+  <a href="#phases">Phases</a> &nbsp;&middot;&nbsp;
+  <a href="#questions">Open Questions</a> &nbsp;&middot;&nbsp;
+  <a href="#reference">Reference Sites</a>
+</div>
+
+<div class="page-body">
+
+  <!-- ── Overview ── -->
+  <div class="section" id="overview">
+    <h2>Project Overview</h2>
+    <p>Troop 79 currently has no central public web presence. This project establishes a full website serving both prospective members of the public and&mdash;more importantly&mdash;the active troop community: scouts, parents, and leaders in Milwaukee&rsquo;s Shorewood and Bayview neighborhoods.</p>
+    <p>The site brings together four existing information streams (advancement records, the weekly Bugle newsletter, the troop calendar, and event photos) into one coherent, well-maintained destination. A members-only section keeps advancement data private while the public-facing pages project a welcoming, professional image to prospective families.</p>
+
+    <div class="page-grid" style="margin-top:20px;">
+      <div class="card card-teal">
+        <h5>Proposed Domain</h5>
+        <p><strong>troop79bsa.org</strong> &mdash; appears available for registration. Confirm at Namecheap or Google Domains before proceeding. The <code>.org</code> extension is appropriate for a non-profit unit.</p>
+      </div>
+      <div class="card card-green">
+        <h5>Primary Goal</h5>
+        <p>A central hub for current troop members: easy access to advancement status, upcoming events, photos, and the weekly Bugle &mdash; all in one place.</p>
+      </div>
+      <div class="card card-slate">
+        <h5>Secondary Goal</h5>
+        <p>A welcoming public-facing presence for prospective scouts and families in the Milwaukee area, with clear information about joining.</p>
+      </div>
+      <div class="card card-gold">
+        <h5>Managed By</h5>
+        <p>A small group of troop leaders with admin access. No technical expertise required for day-to-day content updates (Bugle upload, event entry, photo links).</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Audiences ── -->
+  <div class="section" id="audiences">
+    <h2>Audiences</h2>
+    <div class="page-grid">
+      <div class="card card-teal">
+        <h5>Current Members <span class="badge badge-feature">Primary</span></h5>
+        <ul>
+          <li>Scouts checking advancement progress</li>
+          <li>Parents tracking rank &amp; merit badge status</li>
+          <li>Leaders managing calendar events</li>
+          <li>Anyone reading this week&rsquo;s Bugle</li>
+        </ul>
+      </div>
+      <div class="card card-slate">
+        <h5>Prospective Members <span class="badge badge-new">Public</span></h5>
+        <ul>
+          <li>Families researching scouting in Milwaukee</li>
+          <li>Transfers from other troops or councils</li>
+          <li>Eagle Scout alumni reconnecting</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Pages & Features ── -->
+  <div class="section" id="pages">
+    <h2>Pages &amp; Features</h2>
+
+    <h3>Public Pages</h3>
+    <div class="page-grid">
+      <div class="card card-green">
+        <h5>Home</h5>
+        <ul>
+          <li>Welcome message &amp; troop intro</li>
+          <li>Next 3 upcoming events (calendar preview)</li>
+          <li>Latest Bugle teaser with link</li>
+          <li>Call to action: &ldquo;Join Troop 79&rdquo;</li>
+          <li>Troop logo &amp; key stats (founded, scouts, etc.)</li>
+        </ul>
+      </div>
+      <div class="card card-green">
+        <h5>About</h5>
+        <ul>
+          <li>Troop history &amp; mission</li>
+          <li>Leadership roster (name, role)</li>
+          <li>Meeting time, location, frequency</li>
+          <li>Service area: Shorewood, Bayview, Milwaukee</li>
+          <li>How to join / contact form</li>
+        </ul>
+      </div>
+      <div class="card card-green">
+        <h5>Calendar</h5>
+        <ul>
+          <li>Monthly view of all troop events</li>
+          <li>Event types: meetings, campouts, service, fundraising</li>
+          <li>Click event for details (location, what to bring, etc.)</li>
+          <li>ICS subscribe link for Google/Apple Calendar</li>
+        </ul>
+      </div>
+      <div class="card card-green">
+        <h5>Photo Gallery</h5>
+        <ul>
+          <li>Albums organized by outing or event</li>
+          <li>Thumbnail grid linking to Google Photos albums</li>
+          <li>Admin can add/remove albums and cover photos</li>
+          <li>Caption &amp; date for each album</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3>Members-Only Pages</h3>
+    <div class="note">
+      <p>Access is protected by a shared troop password. Leaders can update the password periodically via the admin settings. No individual accounts are required.</p>
+    </div>
+    <div class="page-grid">
+      <div class="card card-teal">
+        <h5>The Bugle <span class="badge badge-feature">Members</span></h5>
+        <ul>
+          <li>Current week&rsquo;s edition displayed in full</li>
+          <li>Archive of all past issues browsable by date</li>
+          <li>Leaders upload a new HTML file to publish</li>
+          <li>No editor needed &mdash; file upload only</li>
+        </ul>
+      </div>
+      <div class="card card-teal">
+        <h5>Advancement <span class="badge badge-feature">Members</span></h5>
+        <ul>
+          <li>Search or pick a scout from the active roster</li>
+          <li>Full advancement dashboard (see below)</li>
+          <li>Data sourced from Google Sheets &rarr; database</li>
+          <li>Admin can trigger a data refresh</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3>Admin Pages</h3>
+    <div class="card card-rust">
+      <h5>Admin Dashboard <span class="badge badge-open">Leaders Only</span></h5>
+      <ul>
+        <li>Add / edit / delete calendar events</li>
+        <li>Upload new Bugle edition</li>
+        <li>Manage photo gallery albums (add Google Photos link, cover, caption)</li>
+        <li>Trigger advancement data sync from Google Sheets</li>
+        <li>Update shared member password</li>
+        <li>Edit leadership roster &amp; about page content</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ── Advancement ── -->
+  <div class="section" id="advancement">
+    <h2>Advancement Module</h2>
+    <p>This is the most complex feature of the site. Advancement data lives today in a Google Sheet with comprehensive rank, requirement, and merit badge information. The plan is to import this into a proper database and expose it through a clean scout-facing UI.</p>
+
+    <h3>Data Import</h3>
+    <ol>
+      <li>Share Google Sheet (view-only) with the development team</li>
+      <li>Analyze column structure: scout names, ranks, requirement IDs, completion dates, merit badge names, partial completions</li>
+      <li>Design the database schema to match (see below)</li>
+      <li>Build a one-time import script to migrate all historical data</li>
+      <li>Validate imported data against the Sheet row by row</li>
+      <li>Going forward: admin triggers a manual sync from the Sheet, or data is entered directly in the site</li>
+    </ol>
+
+    <h3>Database Schema (Proposed)</h3>
+    <div class="page-grid">
+      <div class="card card-slate">
+        <h5>Scouts</h5>
+        <ul>
+          <li>Name, date of birth, patrol</li>
+          <li>Active / inactive status</li>
+          <li>Date joined, Eagle date (if applicable)</li>
+        </ul>
+      </div>
+      <div class="card card-slate">
+        <h5>Ranks &amp; Requirements</h5>
+        <ul>
+          <li>Rank name (Tenderfoot &rarr; Eagle)</li>
+          <li>Per-requirement: ID, description, completion date</li>
+          <li>Rank earned date</li>
+        </ul>
+      </div>
+      <div class="card card-slate">
+        <h5>Merit Badges</h5>
+        <ul>
+          <li>Badge name, Eagle-required flag</li>
+          <li>Status: earned (date) or partial</li>
+          <li>Partial: requirements completed &amp; remaining</li>
+          <li>Counselor name (optional)</li>
+        </ul>
+      </div>
+      <div class="card card-slate">
+        <h5>Positions of Responsibility</h5>
+        <ul>
+          <li>Position name, start/end dates</li>
+          <li>Required for Star, Life, Eagle</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3>Scout Advancement View</h3>
+    <p>When a member looks up a scout, they see a dashboard with four panels:</p>
+    <div class="page-grid">
+      <div class="card card-green">
+        <h5>Current Rank Card</h5>
+        <p>Badge image, rank name, date earned. Visual progress bar toward next rank showing % of requirements complete.</p>
+      </div>
+      <div class="card card-green">
+        <h5>Next Rank Requirements</h5>
+        <p>Checklist of all requirements for the next rank: completed items (with date) and remaining items highlighted.</p>
+      </div>
+      <div class="card card-green">
+        <h5>Merit Badges Earned</h5>
+        <p>Grid of earned badges with date. Eagle-required badges clearly marked. Count toward Eagle requirement (21 total, 13 Eagle-required).</p>
+      </div>
+      <div class="card card-green">
+        <h5>Partial Merit Badges</h5>
+        <p>In-progress badges with requirement-level detail: which requirements are done and which remain.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Calendar ── -->
+  <div class="section" id="calendar">
+    <h2>Calendar</h2>
+    <p>The troop currently maintains its calendar as an ICS file in Google Sheets. The goal is to eliminate that sheet entirely and manage events directly through the website&rsquo;s admin interface.</p>
+
+    <div class="page-grid">
+      <div class="card card-teal">
+        <h5>Event Entry (Admin)</h5>
+        <ul>
+          <li>Title, date/time, location</li>
+          <li>Event type (meeting, campout, service, fundraiser, high adventure)</li>
+          <li>Description &amp; what to bring</li>
+          <li>Cost (if any)</li>
+          <li>RSVP deadline (optional)</li>
+        </ul>
+      </div>
+      <div class="card card-teal">
+        <h5>Public Calendar View</h5>
+        <ul>
+          <li>Monthly grid view + list view toggle</li>
+          <li>Filter by event type</li>
+          <li>Click event for full detail</li>
+          <li>ICS subscribe link (replaces the Google Sheet)</li>
+          <li>Google Calendar &ldquo;Add&rdquo; button per event</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3>Migration from Google Sheets</h3>
+    <ol>
+      <li>Export existing ICS data from the Google Sheet</li>
+      <li>Import all future events into the site database</li>
+      <li>Verify events are correct</li>
+      <li>Retire the Google Sheet &mdash; leaders use site admin going forward</li>
+    </ol>
+  </div>
+
+  <!-- ── Bugle ── -->
+  <div class="section" id="bugle">
+    <h2>The Bugle</h2>
+    <p>The weekly Bugle newsletter is already produced as a polished HTML file and distributed via EmailOctopus. The website does not replace that workflow &mdash; it provides an additional display surface.</p>
+
+    <div class="page-grid">
+      <div class="card card-gold">
+        <h5>Current Edition</h5>
+        <p>The most recently uploaded HTML file is rendered directly on the <code>/bugle</code> page. No editor needed &mdash; the leader uploads the same HTML file that goes to EmailOctopus.</p>
+      </div>
+      <div class="card card-gold">
+        <h5>Archive</h5>
+        <p>All past editions are stored and browsable by date. The archive is automatically built from uploaded files &mdash; no extra steps required.</p>
+      </div>
+    </div>
+
+    <h3>Publish Workflow</h3>
+    <ol>
+      <li>Leader produces HTML file (existing process, no change)</li>
+      <li>Send via EmailOctopus as usual</li>
+      <li>Log into site admin &rarr; upload same HTML file</li>
+      <li>Site displays it immediately as current edition; previous edition moves to archive</li>
+    </ol>
+  </div>
+
+  <!-- ── Tech Stack ── -->
+  <div class="section" id="tech">
+    <h2>Recommended Tech Stack</h2>
+    <p>This is a dynamic web application (not a static site) because it needs a database, authentication, calendar management, and file uploads. The recommended stack is familiar territory &mdash; it mirrors the SecondBrain project already in use.</p>
+
+    <table class="stack-table">
+      <thead>
+        <tr>
+          <th>Layer</th>
+          <th>Choice</th>
+          <th>Purpose</th>
+          <th>Est. Cost</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Framework</strong></td>
+          <td>Next.js (App Router)</td>
+          <td>Full-stack React &mdash; pages, API routes, server components</td>
+          <td class="cost">Free</td>
+        </tr>
+        <tr>
+          <td><strong>Database</strong></td>
+          <td>PostgreSQL via Neon</td>
+          <td>Advancement data, events, gallery, Bugle archive</td>
+          <td class="cost">Free (0.5 GB) &rarr; $19/mo if needed</td>
+        </tr>
+        <tr>
+          <td><strong>ORM</strong></td>
+          <td>Prisma</td>
+          <td>Type-safe DB access, migrations, schema management</td>
+          <td class="cost">Free</td>
+        </tr>
+        <tr>
+          <td><strong>Auth</strong></td>
+          <td>Shared password (env var)</td>
+          <td>Simple members-only gate; no individual accounts</td>
+          <td class="cost">Free</td>
+        </tr>
+        <tr>
+          <td><strong>File Storage</strong></td>
+          <td>Vercel Blob or Cloudflare R2</td>
+          <td>Bugle HTML files, future logo/assets</td>
+          <td class="cost">~$0&ndash;$5/mo</td>
+        </tr>
+        <tr>
+          <td><strong>Hosting</strong></td>
+          <td>Vercel</td>
+          <td>Deploys automatically from GitHub; global CDN</td>
+          <td class="cost">Free hobby &rarr; $20/mo Pro</td>
+        </tr>
+        <tr>
+          <td><strong>Domain</strong></td>
+          <td>troop79bsa.org</td>
+          <td>Register at Namecheap or Google Domains</td>
+          <td class="cost">~$12/yr</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="note">
+      <p><strong>Estimated total running cost:</strong> ~$12/year to start (domain only). Scales to ~$30&ndash;$50/month if traffic or storage grows significantly &mdash; unlikely for a troop website.</p>
+    </div>
+
+    <h3>Why Not WordPress or Squarespace?</h3>
+    <p>The advancement module requires a custom database schema and a tailored query interface &mdash; not something a page builder handles well. A custom Next.js build gives full control over the advancement dashboard and means the site can evolve as the troop&rsquo;s needs change, without platform limitations or per-seat licensing fees.</p>
+  </div>
+
+  <!-- ── Phases ── -->
+  <div class="section" id="phases">
+    <h2>Phased Build Plan</h2>
+    <p>The site is built in four phases so each phase delivers real value to the troop independently. No phase depends on the next to be useful.</p>
+
+    <table class="phase-table">
+      <thead>
+        <tr>
+          <th style="width:18%">Phase</th>
+          <th>Deliverables</th>
+          <th style="width:28%">Value Delivered</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Phase 1</strong><br /><span style="color:var(--nws-gray-med);font-family:Montserrat;font-size:12px;">Foundation</span></td>
+          <td>
+            Domain registered &amp; hosting set up<br />
+            Home, About, Photo Gallery pages<br />
+            Current Bugle edition page (members-only)<br />
+            Bugle archive<br />
+            Shared password auth
+          </td>
+          <td>Site is live. Members can read the Bugle on the web. Public can find the troop.</td>
+        </tr>
+        <tr>
+          <td><strong>Phase 2</strong><br /><span style="color:var(--nws-gray-med);font-family:Montserrat;font-size:12px;">Calendar</span></td>
+          <td>
+            Admin event entry interface<br />
+            Public calendar page (month + list view)<br />
+            ICS subscribe export<br />
+            Migrate existing events from Google Sheet<br />
+            Retire the ICS Google Sheet
+          </td>
+          <td>Leaders manage events on the site. Members and parents have one place for the troop schedule.</td>
+        </tr>
+        <tr>
+          <td><strong>Phase 3</strong><br /><span style="color:var(--nws-gray-med);font-family:Montserrat;font-size:12px;">Advancement</span></td>
+          <td>
+            Google Sheet shared &amp; analyzed<br />
+            Database schema designed &amp; built<br />
+            Data import script + validation<br />
+            Scout advancement dashboard<br />
+            Admin sync trigger
+          </td>
+          <td>Scouts and parents can check full advancement status online. Biggest single value add.</td>
+        </tr>
+        <tr>
+          <td><strong>Phase 4</strong><br /><span style="color:var(--nws-gray-med);font-family:Montserrat;font-size:12px;">Polish</span></td>
+          <td>
+            Troop logo added<br />
+            Mobile responsiveness pass<br />
+            SEO meta tags &amp; Open Graph<br />
+            Contact / join form with email notification<br />
+            Admin: edit leadership roster inline
+          </td>
+          <td>Site is polished, findable on Google, and fully self-maintained by troop leaders.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ── Open Questions ── -->
+  <div class="section" id="questions">
+    <h2>Open Questions</h2>
+    <p>These items need a decision from troop leadership before or during development.</p>
+
+    <div class="question-block">
+      <div class="q-label">Decision Needed</div>
+      <p><strong>Google Sheet access:</strong> Share the advancement Google Sheet (view-only) with the developer to analyze the schema before Phase 3 begins. This determines database design.</p>
+    </div>
+
+    <div class="question-block">
+      <div class="q-label">Decision Needed</div>
+      <p><strong>Domain registration:</strong> Confirm <code>troop79bsa.org</code> is available and register it. Recommend using the troop&rsquo;s email address as the registrant, not an individual leader&rsquo;s personal account.</p>
+    </div>
+
+    <div class="question-block">
+      <div class="q-label">Decision Needed</div>
+      <p><strong>Logo &amp; colors:</strong> Troop logo to be provided for use on the site. Confirm whether there are official troop colors beyond BSA standard palette.</p>
+    </div>
+
+    <div class="question-block">
+      <div class="q-label">Decision Needed</div>
+      <p><strong>Advancement data going forward:</strong> After import, does the Google Sheet remain the source of truth (admin syncs periodically) or does data entry move entirely to the website? The latter is cleaner but requires leaders to change their workflow.</p>
+    </div>
+
+    <div class="question-block">
+      <div class="q-label">Decision Needed</div>
+      <p><strong>Photo gallery scope:</strong> Google Photos albums will be linked (not embedded). Who maintains the list of albums shown on the site &mdash; any leader, or a designated &ldquo;gallery admin&rdquo;?</p>
+    </div>
+
+    <div class="question-block">
+      <div class="q-label">To Confirm</div>
+      <p><strong>Bugle members gate:</strong> Should the full Bugle archive be members-only, or just the current edition? Some troops make past newsletters fully public as a recruiting tool.</p>
+    </div>
+
+    <div class="question-block">
+      <div class="q-label">To Confirm</div>
+      <p><strong>Roster privacy:</strong> Advancement lookup shows scout names. Confirm that all scouts&rsquo; parents are comfortable with names being visible to anyone who has the shared troop password (not to the general public).</p>
+    </div>
+  </div>
+
+  <!-- ── Reference Sites ── -->
+  <div class="section" id="reference">
+    <h2>Reference: Notable Troop Websites</h2>
+    <p>The following troop websites were identified as well-regarded examples &mdash; recognized by Scouting Magazine, notable for design quality, or significant for their adoption of the linked or family troop structure. They serve as useful benchmarks for Troop 79&rsquo;s own build.</p>
+
+    <div class="note">
+      <p><strong>Thumbnails</strong> are live screenshots of each homepage. Click any site name to visit.</p>
+    </div>
+
+    <!-- Row 1 -->
+    <div class="ref-grid">
+
+      <div class="ref-card">
+        <a href="https://www.troop254.org" target="_blank" rel="noopener">
+          <img src="https://image.thum.io/get/width/400/crop/400/https://www.troop254.org" alt="Troop 254 homepage" />
+        </a>
+        <div class="ref-body">
+          <div class="ref-badges">
+            <span class="badge badge-feature">Linked Troop</span>
+            <span class="badge badge-new">Scouting Mag Pick</span>
+          </div>
+          <h5><a href="https://www.troop254.org" target="_blank" rel="noopener">Troop &amp; Crew 254</a></h5>
+          <div class="ref-location">Bedford, Texas</div>
+          <ul>
+            <li>Promotes linked girls troop directly on the homepage</li>
+            <li>TroopTrack &amp; Scoutbook advancement integration</li>
+            <li>Online merchandise store</li>
+            <li>Summer camp registration forms</li>
+            <li>Clear calls-to-action for prospective families</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ref-card">
+        <a href="https://scoutsbsadcgirls.org" target="_blank" rel="noopener">
+          <img src="https://image.thum.io/get/width/400/crop/400/https://scoutsbsadcgirls.org" alt="Troop 248 DC Girls homepage" />
+        </a>
+        <div class="ref-body">
+          <div class="ref-badges">
+            <span class="badge badge-feature">Girls Troop</span>
+            <span class="badge badge-new">Scouting Mag Pick</span>
+          </div>
+          <h5><a href="https://scoutsbsadcgirls.org" target="_blank" rel="noopener">Troop 248 &mdash; DC Girls</a></h5>
+          <div class="ref-location">Washington, D.C.</div>
+          <ul>
+            <li>Modern design with full-width hero section</li>
+            <li>Four prominent action buttons: Join, Meetings, Volunteer, Parents</li>
+            <li>Detailed uniform guide with SKU numbers</li>
+            <li>SEO-optimized with schema markup</li>
+            <li>Clear audience segmentation (girls / parents / volunteers)</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ref-card">
+        <a href="http://www.scouts427.org" target="_blank" rel="noopener">
+          <img src="https://image.thum.io/get/width/400/crop/400/http://www.scouts427.org" alt="Scouts 427 homepage" />
+        </a>
+        <div class="ref-body">
+          <div class="ref-badges">
+            <span class="badge badge-gold" style="background:var(--nws-teal);">Family Troop</span>
+          </div>
+          <h5><a href="http://www.scouts427.org" target="_blank" rel="noopener">Scouts 427</a></h5>
+          <div class="ref-location">Wausau, Wisconsin</div>
+          <ul>
+            <li>One of the first troops to convert to the Family Troop model (Jan 2026)</li>
+            <li>Previously linked boys &amp; girls troops sharing troop committee</li>
+            <li>Combined calendar for Pack 427 and Scouts BSA Troop 427</li>
+            <li>High adventure documentation (Philmont, Sea Base, Jamboree)</li>
+            <li>Wisconsin troop &mdash; closest geographic example to Troop 79</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ref-card">
+        <a href="https://www.troop1piedmont.org" target="_blank" rel="noopener">
+          <img src="https://image.thum.io/get/width/400/crop/400/https://www.troop1piedmont.org" alt="Troop 1 Piedmont homepage" />
+        </a>
+        <div class="ref-body">
+          <div class="ref-badges">
+            <span class="badge badge-gold" style="background:var(--nws-teal);">All Genders</span>
+          </div>
+          <h5><a href="https://www.troop1piedmont.org" target="_blank" rel="noopener">Troop 1 Piedmont</a></h5>
+          <div class="ref-location">Piedmont, California</div>
+          <ul>
+            <li>Explicitly welcomes youth of all genders, ages 11&ndash;17</li>
+            <li>Strong youth-led structure prominently explained</li>
+            <li>Open House FAQ page for prospective families</li>
+            <li>Clean, uncluttered layout prioritizing essential information</li>
+            <li>Clear contact pathways for different inquiry types</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ref-card">
+        <a href="https://www.bsatroop570.org" target="_blank" rel="noopener">
+          <img src="https://image.thum.io/get/width/400/crop/400/https://www.bsatroop570.org" alt="Troop 570 Dallas homepage" />
+        </a>
+        <div class="ref-body">
+          <div class="ref-badges">
+            <span class="badge badge-new">Scouting Mag Pick</span>
+          </div>
+          <h5><a href="https://www.bsatroop570.org" target="_blank" rel="noopener">Troop 570</a></h5>
+          <div class="ref-location">Dallas, Texas</div>
+          <ul>
+            <li>Image slider on homepage with catchy activity taglines</li>
+            <li>Comprehensive monthly campouts page &mdash; full details per event</li>
+            <li>SmugMug integration for high-volume photo storage</li>
+            <li>Dedicated &ldquo;Join&rdquo; page with clear steps</li>
+            <li>Breadth of activities effectively communicated visually</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ref-card">
+        <a href="https://www.troop642.org" target="_blank" rel="noopener">
+          <img src="https://image.thum.io/get/width/400/crop/400/https://www.troop642.org" alt="Troop 642 Houston homepage" />
+        </a>
+        <div class="ref-body">
+          <div class="ref-badges">
+            <span class="badge badge-new">Scouting Mag Pick</span>
+          </div>
+          <h5><a href="https://www.troop642.org" target="_blank" rel="noopener">Troop 642 &ldquo;The Rainmakers&rdquo;</a></h5>
+          <div class="ref-location">Houston, Texas</div>
+          <ul>
+            <li>Scout-written blog section &mdash; youth voice throughout</li>
+            <li>&ldquo;Flight of Eagles&rdquo; page documenting 500+ Eagle Scouts</li>
+            <li>Active campout recaps with photos after every outing</li>
+            <li>Fundraising integration (flag program, Friends of Scouting)</li>
+            <li>Life to Eagle guidance page</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ref-card">
+        <a href="https://troop270.org" target="_blank" rel="noopener">
+          <img src="https://image.thum.io/get/width/400/crop/400/https://troop270.org" alt="Troop 270 Thurmont homepage" />
+        </a>
+        <div class="ref-body">
+          <div class="ref-badges">
+            <span class="badge badge-polish">75+ Year History</span>
+          </div>
+          <h5><a href="https://troop270.org" target="_blank" rel="noopener">Troop 270</a></h5>
+          <div class="ref-location">Thurmont, Maryland</div>
+          <ul>
+            <li>Founded 1928; documents 75+ years of troop history</li>
+            <li>15+ outdoor activity types listed (backpacking to scuba diving)</li>
+            <li>Range &amp; Target Activities (RATA) section with safety details</li>
+            <li>Recently migrated to WordPress (Feb 2026) &mdash; improved accessibility</li>
+            <li>Affiliated Pack 270 and Venturing Crew 270 all on same site</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="ref-card">
+        <a href="https://www.troop310saco.com" target="_blank" rel="noopener">
+          <img src="https://image.thum.io/get/width/400/crop/400/https://www.troop310saco.com" alt="Troop 310 Saco Maine homepage" />
+        </a>
+        <div class="ref-body">
+          <div class="ref-badges">
+            <span class="badge badge-new">Scouting Mag Pick</span>
+          </div>
+          <h5><a href="https://www.troop310saco.com" target="_blank" rel="noopener">Troop 310</a></h5>
+          <div class="ref-location">Saco, Maine</div>
+          <ul>
+            <li>Google Maps &ldquo;Adventure Map&rdquo; plots every troop outing geographically</li>
+            <li>Eagle Scout roll call page documenting every Eagle in troop history</li>
+            <li>Past events with written recaps &mdash; strong archival culture</li>
+            <li>Scout-designed site reflecting authentic youth voice</li>
+            <li>Troop history page with narrative context</li>
+          </ul>
+        </div>
+      </div>
+
+    </div><!-- /ref-grid -->
+
+    <p style="margin-top:20px;font-size:13px;color:var(--nws-gray-med);">
+      Sources: <a href="https://blog.scoutingmagazine.org/2019/12/11/check-out-some-of-the-best-troop-pack-and-crew-websites-of-2019/" target="_blank" rel="noopener">Scouting Magazine &mdash; Best Troop Websites 2019</a> &nbsp;&middot;&nbsp;
+      <a href="https://blog.scoutingmagazine.org/2024/07/15/what-you-need-to-know-about-the-scouts-bsa-combined-troop-pilot-program/" target="_blank" rel="noopener">Scouting Magazine &mdash; Combined Troop Pilot 2024</a> &nbsp;&middot;&nbsp;
+      <a href="https://newbirthoffreedom.org/family-troop-option-available-starting-december-15-2025/" target="_blank" rel="noopener">New Birth of Freedom Council &mdash; Family Troop Option Dec 2025</a>
+    </p>
+  </div>
+
+</div><!-- /page-body -->
+
+<footer>
+  BSA Troop 79 &thinsp;&middot;&thinsp; Milwaukee, Wisconsin &thinsp;&middot;&thinsp; Website Project Plan &thinsp;&middot;&thinsp; Draft, March 2026
+</footer>
+
+</body>
+</html>
