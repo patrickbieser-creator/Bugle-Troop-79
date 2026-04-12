@@ -1,27 +1,49 @@
 title: "Troop 79 Bugle"
 
 # Troop 79 Bugle
-**March 28, 2026**
+**April 12, 2026**
 
 ## Calendar
 
 [Subscribe](https://sites.google.com/view/bsatroop79bg/home/bugle-calendar-subscription) to the Bugle Calendar to sync with Google, Apple, or Outlook calendars.
 
-## No Troop Meeting This Sunday  
+## Troop Meeting This Sunday  
 
-Enjoy spring break and easter
+<table style="border:0; border-collapse:collapse;" cellpadding="0" cellspacing="0"><tr>                                                                                                                                    
+<td style="vertical-align:top; padding-right:40px;">       
 
+**Sunday**, April 12, 2026, **4:00–5:30**  
+**Uniform:** Class B Uniform  
+**Location:** Northwoods 1572 E Capitol Drive  
+**Snack:** Popcorn  
+**Flag Ceremony:** Kraken  
+**Cleanup:** Shooting Star  
+[Weekly Duty Roster](https://docs.google.com/document/d/1DYRx1tyAIMnwcLdBoWAY3hvO4EfHDTbe5_n9B_bed70/edit?tab=t.0)  
 
-#### Citizenship in the World (4:40)
+</td>
+<td style="vertical-align:middle;">
+<img src="https://Troop79.b-cdn.net/Class-B-Uniform.png" class="scout-img-40" alt="Class B Uniform" />
+</td>
+</tr></table>
 
-- Older scouts met last week and completed requirement 6 with Nina Bendre for **Citizenship in the World**. These scouts will report on their progress on requirement 7 (see below).
+### Meeting Plan   
+
+#### Flag Ceremony and Messages (4:00)
+  
+#### Open Advancement (4:15)
+- Scouts can work on Tenderfoot, 2nd Class and 1st Class requirements. 
+
+#### Citizenship in the World / Other Eagle Merit Badges (4:15)
+
+- Older scouts who met recently with Nina Bendre can continue work on Citizenship in the World requirements. 
   - Anjali Sankpal-Tatera
   - Finn Paltzer
   - Hazel Stollenwerk
   - Henry Ellerman
-  - Jack Porter
   - Maya Lynn Sankpal-Tatera
-  - Ronnie Kleinfeldt  
+  - Viloet Babby
+  - **Jack Porter** (Completed All Requirements)
+  - **Ronnie Kleinfeldt** (Completed All Requirements)
 
 - Requirement 7: *Do Two of The Following*  
   - a. Visit the Web site of the U.S. State Department. Learn more about an issue you find interesting that is discussed on this Web site.  
@@ -33,15 +55,23 @@ Enjoy spring break and easter
 
 - [Citizenship in the World Progress Tracking and Requirements](https://docs.google.com/spreadsheets/d/11PgPevMyDPninIWf1jCdaerGbSnYAJqvwqJLyBSyhHI/edit?gid=0#gid=0)  
 
+
 ## Maya's Eagle Project
 
-Maya is hoping to being on April 34. UEC.  Announcement from Maya with a picture. 
+Hi, I am planning to begin work on my Eagle Project VERY soon.  I am repairing a little library and a sign for the Urban Ecology Center. 
 
+For the first part, I will need 4 scouts and two adults to help with the repairs and painting. This is part one of my project. When the repairs are done, I will plan the next part which is installing them at the UEC.
+
+If you interested in helping please send me an email at mayalynn500@gmail.com  When I can schedule the dates I will let you know and then hope you can make it then. 
+
+Thanks so very much!, Maya Lynn
+
+![Maya Lynn Sankpal-Tatera](https://Troop79.b-cdn.net/MayaHeadShot.png){.img-400 target="_blank"}
 
 
 ## Can Drive Results
 
-Here are the results from the can drive a few weeks ago. Scouts received .90 cents per pound for the aluminum cans.
+Here are the results from the can drive a few weeks ago. Scouts received .90 cents per pound for their aluminum cans.
 
 - Quinn Barry 3.57 lbs
 - Solomon Rader 5.67 lbs
@@ -52,87 +82,118 @@ Here are the results from the can drive a few weeks ago. Scouts received .90 cen
 - Eleanor Hooper 20.8 lbs
 - Oliver Vest - 29.6 lbs
 
-[![Can Drive Results March 2026](https://Troop79.b-cdn.net/CanDriveMarch2026%20(2).png){.img-400 target="_blank"}](https://Troop79.b-cdn.net/CanDriveMarch2026%20(2).png)
+[![Can Drive Results March 2026](https://Troop79.b-cdn.net/CanDriveMarch2026%20(2).png){.img-400s target="_blank"}](https://Troop79.b-cdn.net/CanDriveMarch2026%20(2).png)
 
 Here are the current balances for all active scouts:
 
-[![Can Drive Results March 2026](https://Troop79.b-cdn.net/CanDriveMarch2026%20(1).png){.img-400 target="_blank"}](https://Troop79.b-cdn.net/CanDriveMarch2026%20(1).png)
+[![Can Drive Results March 2026](https://Troop79.b-cdn.net/CanDriveMarch2026%20(1).png){.image-border target="_blank"}](https://Troop79.b-cdn.net/CanDriveMarch2026%20(1).png)
 
 
 ## Advancement Report  
   
 ### Ranks Completed
-- None this week
+- **Star**
+  - Jack Porter
 
 ### Merit Badges Completed
-- None this week
-
-### Merit Badge Requirements Completed
-- **Citizenship in the World 4c**
-  - Anjali Sankpal-Tatera
+- **Citizenship in the World**
   - Jack Porter
-  - Henry Ellerman
   - Ronnie Kleinfeldt
-  - Maya Lynn
+
+- **Robotics**
+  - Winnie Black
+  - Lee Pasek
+  - Damian Nikolaus
+  - Violet Babby
+
+- **Emergency Preparedness**
+  - Jack Porter
+
+- **Chess**
+  - Henry Ellerman
   - Hazel Stollenwerk
 
+### Merit Badge Requirements Completed
+- **Citizenship in the World 7**
+  - Henry Ellerman
+
 ### Rank Requirements Completed
+- **Scout 1, 2, 3** — Spirit, Sign, Codes, Pledge, Leadership, Ranks
+  - Aubrey Reinelt
+  - Piper Kingston
 
-- **Second Class 8c** — Plan and budget for an item
-  - Damian Nikolaus
-  - Lee Pasek
+- **Second Class** — Flag Ceremony, Bowline, Tell a Friend
+  - Ben Bieser
 
-- **Second Class 8d** — Buy the item
-  - Damian Nikolaus
+- **Second Class 1c** — Select & recommend patrol campsite
+  - Robbie Haessley
 
-- **First Class 3b** — Timber Hitch / Clove Hitch
+- **Second Class 2e** — Plan & cook hot campout meal
+  - Henry Ellerman
+
+- **Second Class 2f** — Sheet bend knot
+  - Winnie Black
+
+- **Second Class 2g** — Bowline knot
+  - Ben Bieser
+  - Winnie Black
+
+- **Second Class 7a, 7b** — 30 min/day physical activity, 4 weeks
+  - Henry Ellerman
+
+- **Second Class 7c** — Dangers of drugs, alcohol & tobacco
+  - Anita Bendre
+
+- **Second Class 8c. 8d** — Personal savings goals and shopping
+  - Anita Bendre
+
+- **Second Class 8e** — Two hours of service
+  - Robbie Haessley
+
+- **First Class 1b** — Tread Lightly! principles
+  - Anita Bendre
+  - Quinn Barry
+
+- **First Class 2a, 2b, 2c, 2d, 2e** — Campout food and planing
+  - Anita Bendre
+
+- **First Class 3a** — When to use lashings
+  - Anita Bendre
+  - Ben Bieser
+
+- **First Class 6b, 6e, 7a** — Safe afloat, Line Rescue, First Aid
+  - Anita Bendre
+- 
+- **First Class 7c** — Heart attack signals & CPR
+  - Anita Bendre
+  - Henry Ellerman
+  - Quinn Barry
+
+- **First Class 9a** — Community leader visit & discussion
   - Anita Bendre
   - Damian Nikolaus
+  - Jameson Kimble
   - Lee Pasek
-  - Owen Radtke
+  - Lucy Lyden
+  - Oscar Belle
+  - Quinn Barry
+  - Robbie Haessley
   - Solomon Rader
+ 
+- **First Class 10** — Scout recruitment conversation
+  - Ben Bieser
 
-- **First Class 3** — Square Lashing
-  - Anita Bendre
-  - Damian Nikolaus
-  - Lee Pasek
-  - Owen Radtke
+### Leadership 
+- **Patrol Leader** 
   - Solomon Rader
+  - Lee Pasek
+  - Henry Ellerman
+  - Anjali Sankpal-Tatera
 
-- **First Class 3** — Diagonal Lashing
-  - Anita Bendre
-  - Damian Nikolaus
-
-- **First Class 3** — Sheer Lashing
-  - Anita Bendre
-  
-- **First Class 3c** — Demonstrate Three Lashings
-  - Anita Bendre
-
-
-## Summer Camp Program Signup has started
-
-Click the images below to see the offerings:
-
-Click here for: [Summer Camp Programming Selection Form](https://docs.google.com/forms/d/e/1FAIpQLScEpn2V1EM4zXC3T_l8wXXkLp_o-czfkrjqE2NZHJvnVNlUAQ/viewform)
-
-Here are the assignments suggested for each scout: 
-
-[![Summer Camp Merit Badge Selection Form](https://Troop79.b-cdn.net/Tesomas-Assignements-MB-By-Year-2026.png){.img-400}](https://Troop79.b-cdn.net/Tesomas-Assignements-MB-By-Year-2026.png)
-
-Here is the merit badges and rank advancement schedule for the camp:
-
-[![Summer Camp Merit Badge Selection Form](https://Troop79.b-cdn.net/Tesomas-Merit-Badges-2026.png){.img-400}](https://Troop79.b-cdn.net/Tesomas-Merit-Badges-2026.png)
-
-Older Scouts have the opportunity to Participate in Micro Trek - a high adventure program tailored for high school scouts:
-
-[![High School Scout High Adventure Opportunities](https://Troop79.b-cdn.net/Tesomas-Micro-Tek-300.png){.img-400}](https://Troop79.b-cdn.net/Tesomas-Micro-Tek-300.png)
-
-Summer Camp, July 26 - Aug 1, will be held at Tesomas Scout Camp near Rhinelander, WI. This is a great opportunity to experience Scouting's finest. Fathers and mothers are welcome and encouraged to attend for part or all of the week. All scouts are encouraged to attend summer camp. Jason is available on Band and will be at this week's meeting if you have any questions.  Just a reminder, the deposit for summer camp is $100 per Scout, with the remaining $350 due by June 1st. **To register** click on the image below and fill in the registration form.
-
-[![Summer Camp Signup Form](https://Troop79.b-cdn.net/SummerCampSignupFormTesomas.png){.img-400}](https://docs.google.com/forms/d/e/1FAIpQLSeO9pRTIU0IXrTlEHmOx8W9WfnLP0GglWMYCiXCJ7qbkyvJ8A/viewform)
-
-[![Summer Camp 2025 Group Photo](https://Troop79.b-cdn.net/SummerCamp2025GroupPhoto.png){.img-600}](https://photos.app.goo.gl/cj5YYJumjtkLwK368)
+- **Assistant Patrol Leader** 
+  - Adi Alfred
+  - Robbie Haessley
+  - Violet Babby
 
 
 ## Summer Camp Scholarships Available
@@ -148,30 +209,26 @@ Please use this Google form to apply. All submissions are confidential.
 [![Scholarship Application Form](https://Troop79.b-cdn.net/Unity%20Church%20Summer%20Camp%20Scholarship.png){.img-400}](https://docs.google.com/forms/d/e/1FAIpQLSexMOfFfyinkMOAwvGRU7w5qhujIdzXo3AN-c6GEO8KF18LQA/viewform)
 
 
-## High Adventure Trip to the BWCA - June 20-27
+## Troop Treasurer
 
-We are looking for one more female adult to attend this year's High Adventure Trip. Reply to this email if you might be interested.
+With the recent retirement of Debbie Taylor, the Troop is looking for a new treasurer. We are most grateful for the five years of time, effort, and patience that Debbie Taylor put into being the Troop's founding treasurer.  Thank you Debbie!
 
-We have secured two BWCA wilderness permits for our first ever High Adventure Trip (HAT). The permits allow for up to 9 people per crew -- one crew will enter at [Snowflake Lake](https://bwca.com/index.cfm?fuseaction=maps.entryhome&locid=27) (OP), and the other at [Lake One](https://bwca.com/index.cfm?fuseaction=maps.entryhome&locid=30) (OP).  
+The duties of the treasurer are:
+- Handles troop funds, manages checking/savings accounts, and prepares an annual budget.
+- Keeps records (receipts, bank statements) and submits monthly and annual financial reports to the Troop committee.
+- Collects camp payments, fundraising income, keeps Troop ledger up to date, pays bills, and manages fundraising finances.
+- Manages scout account income and outflow from can drive, wreath sales, and scout submitted expenses
 
-As of 2/21, we have heard from 14 Scouts and adults who are interested, and received the $100 downpayment from 13. In theory we have room for 4 more Scouts or adults. 
-
-To be eligible for this trip a Scout must be first class or above and be going into 9th grade or above this fall. [Reserve your spot here.](https://docs.google.com/forms/d/1I_MARXWjQGcyJk5poll2FOI0fWZMXqj3Uq-aQfL0X4A/edit/)  A down payment of $100 is required.  The total cost of the trip is estimated to be around $650. Traveling to the Boundary Waters is a rare opportunity, and a Scout should not pass up it they are eligible to attend.
-
-The National Forest Services has produced a series of videos that are required viewing for everyone participating. 
-
-[![BWCA Visitor Video](https://Troop79.b-cdn.net/BWCA-Viiitor-Video.png){.img-600}](https://www.youtube.com/watch?v=nen7lRqEjm8)  
-
-
+If you are interested in helping out with all or part of this job contact Jack Kosmoski at 612-616-1469 or jack.kosmoski@gmail.com
  
 ## Check Your Clipboard
 
-Nate Vest, with a little help from AI, vibe coded an experimental website that offers an interactive view of each scout's advancement. Let us know if this is useful, if there are any features you would like to see added, or if any information missing or incorrect. Thanks!
+Nate Vest coded an experimental website that offers an interactive view of each scout's advancement. Let us know if this is useful, if there are any features you would like to see added, or if any information missing or incorrect. Thanks!
 
 [![Troop Advancement Portal](https://Troop79.b-cdn.net/AdvancmentPortal.png){.img-600}](https://benevolent-mochi-e88c05.netlify.app/)  
 
 
-Click the name to view Advancement Clipboards as of **3/7/26**.
+Click the name to view Advancement Clipboards as of **4/12/26**.
 
 - Adi Alfred — [View file](https://drive.google.com/file/d/1-LcQZ9khIbC3qqGoaLpytIFw5ldRxb1B/view?usp=drivesdk)  
 - Anita Bendre — [View file](https://drive.google.com/file/d/1GJ2I-dFonBnVMAW0ScmFwMDt4Txqxyzg/view?usp=drivesdk)  
@@ -219,7 +276,7 @@ Let Mellissa Rader know if anything is missing, inaccurate, or misdated.
 - [Chess](https://docs.google.com/spreadsheets/d/1CTzRTl-7d5xIFqUv3Wsc-KkqHaB8u9h0JaIHkW2SwV0/edit?usp=sharing) (Updated 10/25/25)  
 - [Citizenship in Community (E)](https://docs.google.com/spreadsheets/d/1ktes1pFNhxAcoCrY2CtZj_cxlH5C2ep_T32p_4OxJSk/edit?gid=0#gid=0) (Updated 11/2/25)  
 - [Citizenship in Nation (E)](https://docs.google.com/spreadsheets/d/1fYGH2IsUhfXwq0ELGFgjRxTxo55_Wbk-EOSyh-L93Ao/edit?usp=sharing) (Updated 9/1/25)  
-- [Citizenship in the World](https://docs.google.com/spreadsheets/d/11PgPevMyDPninIWf1jCdaerGbSnYAJqvwqJLyBSyhHI/edit?gid=0#gid=0) (Updated 3/7/26) 
+- [Citizenship in the World](https://docs.google.com/spreadsheets/d/11PgPevMyDPninIWf1jCdaerGbSnYAJqvwqJLyBSyhHI/edit?gid=0#gid=0) (Updated 4/12/26) 
 - [Communications (E)](https://docs.google.com/spreadsheets/d/1HIjEC8HNsJLLx7xJgbAMTqDz3o9EsI5hNNaO8xCx8uo/edit?gid=0#gid=0) (Updated 1/25/25)  
 - [Cooking (E)](https://docs.google.com/spreadsheets/d/1IkHhG4bUTlSE8P-vmp1ADf1Dzh8KXA-0tGNDbjasVog/edit?gid=0#gid=0) (Updated 1/24/26)  
 - [Cycling (E)](https://docs.google.com/spreadsheets/d/1JCXqSx0r3rFumAsNfGGKwwyRF_e6aehrO4XbdF6F0rE/edit?usp=sharing)  
@@ -296,12 +353,11 @@ Reading pages 47-86 of the Merit Badge pamphlet (same link as above) provides mu
 
 ## Sparklers
 
-- I always use a step-ladder, because my real ladder left when I was just a kid.
-- If you're cold inside your house just stand in the corner. It's always 90 degrees there.
-- I just thought of an Elton John joke. It's a little bit funny...
-- If you bought a sweet car online, can you guess who might have been the owner? 
-- Over 100 years ago, two brothers announced they could fly. Turns out they were Wright.
-
+- I recently took a poll and I found that 100% of the people in the tent were angry.
+- Now that I've gotten older, everything is starting to click for me. My neck, my back, my knees.
+- I have spent time, effort, and money childproofing my house. But somehow the kids keep getting in.
+- I went to the doctor about a suspicious-looking mole, but he said they all looked that way, and I should have left it in the garden.
+- I went to the beekeeper to buy 12 bees, and when I got home, I saw that he had given me 13, so I called to tell him. He said it wasn't a mistake, it was a free bee.
 
 ---
 
