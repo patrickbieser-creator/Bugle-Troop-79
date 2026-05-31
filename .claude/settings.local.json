@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:docs.bunny.net)",
-      "Bash(python -c ' *)"
+      "Bash(python -c ' *)",
+      "Bash(gh auth *)",
+      "Bash(gh --version)",
+      "Bash(powershell.exe *)",
+      "Read(//c/Users/pat/Documents/PowerShell/**)",
+      "Bash(echo \"EXIT_MARKER_$?\")",
+      "Read(//d/Users/pat/Documents/WindowsPowerShell/**)"
     ]
   }
 }
