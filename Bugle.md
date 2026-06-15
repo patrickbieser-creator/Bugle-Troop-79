@@ -1,7 +1,30 @@
 title: "Troop 79 Bugle"
 
 # Troop 79 Bugle
-**June 7, 2026**
+**June 14, 2026**
+
+## Camp Physicals (Free) at Meeting this Sunday
+
+All Scouts and adults attending Summer Camp or the High Adventure trip **must** have an Annual BSA Health and Medical record completed every year. Part C of the form must be signed by a licensed medical practitioner such as a doctor, nurse practitioner, or physician assistant.
+
+Nina Bendre, NP, has generously offered to complete Part C of the camp physicals for scouts and adults. She will be at the troop meeting this Sunday, June 14. 
+
+If you would like to receive a free physical this Sunday, please message Patrick or reply to this email so we can let Nina know how many people to expect.
+
+Currently signed up:
+
+- Lisa Pieper
+- Violet Babby
+- Eleanor Hooper
+- Patrick Bieser
+
+Do not wait until the last minute to get this done. Every Scout and Adult must complete a BSA health form before camp, or they may not be allowed to participate. 
+
+Parts A, B1, B2 are completed by a parent.
+
+[![BSA Medical Forms Part A, B, C](https://Troop79.b-cdn.net/BSAFormABC.png){.img-400}](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_ABC.pdf)
+*Click image to download the BSA form*
+
 
 ## Calendar
 
@@ -12,7 +35,7 @@ title: "Troop 79 Bugle"
 <table style="border:0; border-collapse:collapse;" cellpadding="0" cellspacing="0"><tr>                                                                                                                                    
 <td style="vertical-align:top; padding-right:40px;">       
 
-**Sunday**, June 7, 2026, **4:00–5:30**  
+**Sunday**, June 14, 2026, **4:00–5:30**  
 **Uniform:** Class B Uniform  
 **Location:** Northwoods 1572 E Capitol Drive  
 **Snack:** Popcorn  
@@ -23,60 +46,67 @@ title: "Troop 79 Bugle"
 </td>
 </tr></table>
 
-### Meeting Plan 
+### Meeting Plan - Three Options
+
+#### Option 1 - Woodwork MB
+
+- Continue work on Woodwork Merit Badge requirement #6.
+- This is the last requirement for many scouts. 
+- Bring in your plan for a project. If you don't yet have a plan, we can give you ideas to get you started.
+- Scouts with a "P" in Requirement #6 below have partially completed work. 
+
+![Woodwork MB Plan](https://Troop79.b-cdn.net/Woodwork-MB-Plan-Eleanor.png){.img-300}
+*Eleanor's woodwork project plan*
+
+[![Woodwork Merit Badge - Requirements & Tracking Sheet](https://Troop79.b-cdn.net/Woodwork-MB-TrackingSheet.png){.img-300}](https://docs.google.com/spreadsheets/d/1U8eYS4uFmQBbnKjCd8a64u_j6o_FF7V-fE71T1ExJic/edit?gid=0#gid=0)
+*Woodwork - Requirements & Tracking Sheet*
+
+[![Woodwork-MeritBadge-Pamphlet](https://Troop79.b-cdn.net/Woodwork-MB-Phamplet.png){.img-300}](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork.pdf)
+*Woodwork Pamphlet.*
+
+#### Option 2 - Open Advancement
+
+- Younger Scouts not working on Woodwork can work on rank requirements. Check your clipboard to see what you need next!
+
+#### Option 3 - Eagle Merit Badges
+
+- Older Scouts are encouraged to work on Eagle-required merit badges. The unfinished requirements for Scouts are below.
+
+[Citizenship in the World - Requirements & Tracking Sheet](https://docs.google.com/spreadsheets/d/11PgPevMyDPninIWf1jCdaerGbSnYAJqvwqJLyBSyhHI/edit?gid=0#gid=0)  
+[Citizenship in the Nation - Requirements & Tracking Sheet](https://docs.google.com/spreadsheets/d/1fYGH2IsUhfXwq0ELGFgjRxTxo55_Wbk-EOSyh-L93Ao/edit?gid=0#gid=0)  
+[Citizenship in the Community - Requirements & Tracking Sheet](https://docs.google.com/spreadsheets/d/1ktes1pFNhxAcoCrY2CtZj_cxlH5C2ep_T32p_4OxJSk/edit?gid=0#gid=0)  
+[Communication - Requirements & Tracking Sheet](https://docs.google.com/spreadsheets/d/1HIjEC8HNsJLLx7xJgbAMTqDz3o9EsI5hNNaO8xCx8uo/edit?gid=0#gid=0)  
+[Family Life - Requirements & Tracking Sheet](https://docs.google.com/spreadsheets/d/1jadtJ1Qq4h0rkbC2XZq9lD6zi914kcdm4V0ta8lozHI/edit?gid=0#gid=0)  
+[Cooking - Requirements & Tracking Sheet](https://docs.google.com/spreadsheets/d/1IkHhG4bUTlSE8P-vmp1ADf1Dzh8KXA-0tGNDbjasVog/edit?gid=0#gid=0)  
 
 Help from adults and older Scouts teaching the wide variety of options on our agenda would be most appreciated!
 
-Today’s meeting will have opportunities for Scouts to finish work on the Woodwork merit badge. Many Scouts need to complete one more wood project. Bring in your plans for your project today, or we can give you some ideas and get you started.
+## No Troop Meeting Next Week
 
-[Woodwork Merit Badge Project Tracking Sheet](https://docs.google.com/spreadsheets/d/1U8eYS4uFmQBbnKjCd8a64u_j6o_FF7V-fE71T1ExJic/edit?gid=0#gid=0)
+With 1/3 of the Troop gone on the High Adventure Trip next Sunday (June 21st), we will take a one week break. Troop meetings will resume Sunday, June 28th. 
 
-Younger Scouts can work on rank advancement. Check your clipboard to see what you need next.
+Participants in the 2026 High Adventure Trip:
 
-Older Scouts are encouraged to work on Eagle-required merit badges. The unfinished requirements for each Scout are here.
-
-- [Citizenship in the World](https://docs.google.com/spreadsheets/d/11PgPevMyDPninIWf1jCdaerGbSnYAJqvwqJLyBSyhHI/edit?gid=0#gid=0)
-- [Citizenship in the Nation](https://docs.google.com/spreadsheets/d/1fYGH2IsUhfXwq0ELGFgjRxTxo55_Wbk-EOSyh-L93Ao/edit?gid=0#gid=0)
-- [Citizenship in the Community](https://docs.google.com/spreadsheets/d/1ktes1pFNhxAcoCrY2CtZj_cxlH5C2ep_T32p_4OxJSk/edit?gid=0#gid=0)
-- [Communications](https://docs.google.com/spreadsheets/d/1HIjEC8HNsJLLx7xJgbAMTqDz3o9EsI5hNNaO8xCx8uo/edit?gid=0#gid=0)
-- [Family Life](https://docs.google.com/spreadsheets/d/1jadtJ1Qq4h0rkbC2XZq9lD6zi914kcdm4V0ta8lozHI/edit?gid=0#gid=0)
-- [Cooking](https://docs.google.com/spreadsheets/d/1IkHhG4bUTlSE8P-vmp1ADf1Dzh8KXA-0tGNDbjasVog/edit?gid=0#gid=0)
-
-
-## Troop 79 Welcomes AOLs from Pack 179
-
-[![Pack](https://Troop79.b-cdn.net/CrossOverPack179.png){.img-400}](https://photos.app.goo.gl/HhdLnesMc8zfcTp9A)
-
-Yesterday afternoon at Grant Park, four AOLs crossed over into Troop 79 from Pack 179, walking across the Grant Park bridge and into the next stage of their Scouting journey. The troop welcomed Lily, Piper, Aubrey, and Fiona.
-
-It was a beautiful sunny day, and a dozen Scouts, led by SPL Kevin Pieper, were there to welcome them on the other side — a simple but meaningful reminder that they are not starting this adventure alone.
-
-Crossover is one of those moments that is both an ending and a beginning. These Scouts leave behind the familiar rhythms of Cub Scouts and step into something bigger: more independence, more responsibility, more challenge, and a lot more opportunity. Ahead of them are campouts, merit badges, leadership roles, service projects, new skills to learn, and friendships that can last a lifetime.
-
-We are excited to welcome them to Troop 79 and look forward to seeing where the trail takes them next.
-
-[![Crossover](https://Troop79.b-cdn.net/CrossOverPack179-June-26.png){.img-400}](https://photos.app.goo.gl/HhdLnesMc8zfcTp9A)
-*Click the image to see photos and videos from the ceremony*
-
-## Free Camp Physicals 
-
-All Scouts attending Summer Camp or High Adventure trips must have a current BSA Annual Health and Medical Record completed every year. This is required for all Scouts and adults every year. The physical portion of the official BSA form, Part C, must be completed and signed by a licensed medical provider, such as a doctor, nurse practitioner, or physician assistant.
-
-**Nina Bendre**, NP, has generously offered to complete Part C camp physicals for Scouts who need them. She will be at the troop meeting next Sunday, June 14, to complete these physicals. If any other licensed practitioners are available to help, we would be happy to include you as well.
-
-If you would like to receive a free physical next Sunday, please reply to this email so we can let Nina know how many Scouts and adults to expect.
-
-Do not wait until the last minute. Every Scout must have the completed BSA health form turned in before camp, or they may not be allowed to participate.
-
-[![BSA Medical Forms Part A, B, C](https://Troop79.b-cdn.net/BSAFormABC.png){.img-400}](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_ABC.pdf)
-*Click image to download the BSA form: Parts A and B are completed by parent / guardian.*
+- Oscar Belle
+- Henry Ellerman
+- Eleanor Hooper
+- Ronnie Kleinfeldt
+- Finn Paltzer
+- Kevin Pieper
+- Jack Porter
+- Hazel Stollenwerk
+- Oliver Vest
+- Patrick Bieser
+- Kristin Paltzer
+- Lisa Pieper
+- Nate Vest
 
 
 ## High Adventure Trip Updates 
 
-The high adventure trip to the Boundary Waters is just 12 days away. All participants are reminded to get in shape!  A little bit of weight lifting, daily core workouts, and any endurance training are all highly advised and will make the trip more enjoyable.
+The High Adventure Trip to the Boundary Waters is just six days away. All participants are reminded to get in shape!  A little bit of weight lifting, daily core workouts, and any endurance training are all highly advised and will make the trip more enjoyable.
 
-All participants should have received an email from Lisa Pieper listing any paperwork still needing to be completed. This includes the BSA physical form and the outfitter waiver. If you are still missing your physical form, there is an option next Sunday to get a free physical at the Troop Meeting. Sign-up instructions are below.
+All participants should have received an email from Lisa Pieper listing any paperwork still needing to be completed. This includes the BSA physical form and the outfitter waiver. If you are still missing your physical form, there is an option this Sunday to get a free physical at the Troop Meeting. Sign-up instructions are above.
 
 Final payments are due now. The trip cost is $840 per person, and assuming your $100 down payment, the balance due is $740 per person. Here are payment instructions.
 
@@ -90,31 +120,39 @@ Final payments are due now. The trip cost is $840 per person, and assuming your 
 
 ## Advancement Report  
 
+### Ranks Completed
+**Second Class**
+- Robbie Haessley
+
 ### Rank Requirements
-- None this week
+**First Class 6, 7d** — Head Injuries, Dangers in Home
+  - Damian Nikolaus
 
 ### Merit Badges Completed
-- None this week
+**Camping**
+- Oliver Vest
+- Jack Porter  
 
-### Service Projects 
-- None this week
+**Citizenship in the World**
+- Veronica Kleinfeldt
 
-### Ranks Completed
-- None this week
-
+### Leadership
+**Den Chief**
+- Hazel Stollenwerk
+- Quinn Barry
+- Oliver Kosmoski
 
 ### Merit Badge Requirements (Mostly) Completed
 - None this week
 
 ## Sparklers
 
-- If you ever need to scream and let all your feelings out, I highly recommend a cornfield. There’s no judgment. They’re all ears.
-- I took my friend to an orchard for her birthday.  We stood there for 10 mins, but it was not the apple watch she wanted.
-- I just paid $350 for a limousine, but found out it didn't have a driver. All that money and nothing to chauffeur it.
-- I got an email talking about how to read maps backwards. It was spam.
-- I tried my best to cook some Middle Eastern food and failed miserably. I just really falafel about it.
-- Have you heard the joke about yoga? Nevermind its a bit of a stretch.
-- Why are frogs always so happy? They eat whatever bugs them.
-- Entropy. It's not what it used to be. 
+- I used to be addicted to soap, but I'm clean now. 
+- Exaggerations went up by a million percent last year. 
+- Nostalgia. It just isn't what is used to be.
+- How many sides does a circle have? Two: inside and outside.
+- Knock, knock. Who’s there? Olive. Olive who? Olive right next door to you. 
+
+![Mop](https://Troop79.b-cdn.net/Joke-Remember-to-bring-the-map.JPEG){.img-300}
 
 ---
