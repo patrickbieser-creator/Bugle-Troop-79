@@ -5,8 +5,6 @@ Converts a Markdown Bugle newsletter into email-safe HTML using a template.
 
 Rules:
 - Markdown is used ONLY for text content
-- The Calendar table is injected verbatim from calendar.html
-- Pandoc never processes the calendar table
 - Each "## Heading" becomes a new section with <hr> and a numbered badge
 
 Requirements:
@@ -22,8 +20,6 @@ param(
     [Parameter(Mandatory = $false)][string]$BugleDate,
     [Parameter(Mandatory = $false)][string]$HeroImage,
     [Parameter(Mandatory = $true)][string]$LogoImage,
-
-    [Parameter(Mandatory = $false)][string]$CalendarHtmlPath,
 
     [Parameter(Mandatory = $false)][string]$UnsubscribeUrl = "{{UnsubscribeURL}}",
     [Parameter(Mandatory = $false)][string]$SenderInfoLine = "{{SenderInfoLine}}",
@@ -166,13 +162,6 @@ Assert-PandocAvailable
 $template = Get-Content -LiteralPath $TemplatePath -Raw -Encoding UTF8
 $md = Get-Content -LiteralPath $MarkdownPath -Raw -Encoding UTF8
 
-# Load calendar HTML verbatim (if provided)
-$calendarHtml = ""
-if ($CalendarHtmlPath) {
-    Assert-FileExists $CalendarHtmlPath "CalendarHtmlPath"
-    $calendarHtml = Get-Content -LiteralPath $CalendarHtmlPath -Raw -Encoding UTF8
-}
-
 $parsed = Parse-MarkdownSections $md
 
 # Intro block
@@ -182,7 +171,6 @@ if ($UseIntroFromMarkdown -and $parsed.IntroMd) {
 }
 
 # Build sections
-# Build sections
 $sectionsHtml = @()
 
 # Start badge at the smaller of (BadgeStart) and (# of sections)
@@ -191,21 +179,7 @@ if ($badge -lt $BadgeEnd) { $badge = $BadgeEnd }  # safety
 
 foreach ($s in $parsed.Sections) {
 
-    $bodyHtml = ""
-
-    if ($s.Title.Trim().ToLower() -eq "calendar" -and $calendarHtml) {
-
-        if ($s.Body) {
-            $bodyHtml = Convert-MarkdownToHtml $s.Body + "`n"
-        }
-
-        # Inject calendar table verbatim
-        $bodyHtml += "`n" + $calendarHtml
-
-    }
-    else {
-        $bodyHtml = Convert-MarkdownToHtml $s.Body
-    }
+    $bodyHtml = Convert-MarkdownToHtml $s.Body
 
     $sectionsHtml += Render-SectionHtml `
         -BadgeNumber $badge `

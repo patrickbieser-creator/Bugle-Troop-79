@@ -1,8 +1,7 @@
 .\Build-Bugle.ps1 `
   -TemplatePath .\bugle-template.html `
   -MarkdownPath .\bugle.md `
-  -CalendarHtmlPath .\calendar.html `
   -OutPath .\output\bugle.html `
-  -BugleDate "July 19, 2026" `
-  -HeroImage "https://Troop79.b-cdn.net/TesomasScoutCampSign.png" `
+  -BugleDate "August 30, 2026 " `
+  -HeroImage "https://Troop79.b-cdn.net/courtofhonr2025-16bc7bde-1200-785839b6.jpg" `
   -LogoImage "https://Troop79.b-cdn.net/Bugle%20Logo.png"
