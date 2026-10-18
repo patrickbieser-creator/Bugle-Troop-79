@@ -1,0 +1,15 @@
+{
+  "enabledPlugins": {
+    "northwoods@northwoods": false
+  },
+  "claudeMdExcludes": [
+    "**/.claude/agents/core-rules.md"
+  ],
+  "permissions": {
+    "deny": [
+      "Agent(northwoods:nws-brand-manager)",
+      "mcp__titan-v75-dev",
+      "mcp__nws-v75-api-dev"
+    ]
+  }
+}
