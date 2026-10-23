@@ -1,19 +1,24 @@
 title: "Troop 79 Bugle"
 
 # Troop 79 Bugle
-**October 18, 2026**
+**October 23, 2026**
 
+## Troop Calendar 
 
-## Troop Calendar (Click the Image)
+**Recent Updates**  
+- Winter Camp dates 
+- Wreath Pickup dates
+- Troop Meeting dates thru end-of-year
+
 [![Troop Calendar](https://Troop79.b-cdn.net/Calendar-Month-Icon.png)](https://www.troop-79.com/events)
+_[Click Image to see Calendar Page]_
 
-
-## Troop Meeting Today!
+## Troop Meeting This Sunday
 
 <table style="border:0; border-collapse:collapse;" cellpadding="0" cellspacing="0"><tr>                                                                                                                                    
 <td style="vertical-align:top; padding-right:40px;">       
 
-**Sunday**, Oct 18, 2026, 4:00–5:30  
+**Sunday**, Oct 25, 2026, 4:00–5:30  
 **Uniform:** Class B Uniform    
 **Location:** Northwoods 1572 E Capitol Drive  
 **Snack:** Popcorn  
@@ -29,50 +34,105 @@ title: "Troop 79 Bugle"
 
 - **3:50** - Arrive early and help make **popcorn**! 
 - **4:00** - Flag ceremony and SPL messages. Led by SPL
-- **4:15** - Older Scouts: Cooking Merit Badge. Finish requirement started at Campout
-- **4:15** - Younger Scouts: Open Advancement Options. (See Below)
-- **5:10** - Game
+- **4:15** - Open Advancement (See Below)
+- **5:10** - A New Game (picked by PLC)
 - **5:25** - Scoutmaster's Minute, final messages.
 
-**Older Scouts: Option to Work on Cooking Merit Badge**
+### **Older Scouts**
 
-The following scouts made progress recently on cooking merit badge and just need to finish the paperwork. We will get it done!
+Cyber Chip for Star
+- Anjali
+- Finn
 
-- Jameson Kimble
-- Violet Babby
-- Winnie Black
-- Henry Ellerman
-- Quinn Barry
-- Anjali Sankpal-Tatera
-- Finn Paltzer
-- Oliver Kosmoski
-- Hazel Stollenwerk
-- Jack Porter
-- Veronica Kleinfeldt
-- Robbie Haessley
-- Oscar Belle
+Citizenship in Community Req 1
+- Jack 
+- Ronnie
+- Finn
 
-**Younger Scouts: Options for Open Advancement**
+Communications Req 2 or Req 3 - Persuasive Presentation or 5 Minute Speech
+- Anjali 
+- Hazel
+- Finn
+- Jack
+- Oliver K
 
-- Adi Alfred - Rope Care, First Aid Kit, Knife Sharpening (Totin' Chip)
-- Aubrey Reinelt - Rope Care, Pocket Knife Safety, Cyber Chip
-- Ben Bieser - First Aid Kit, Tenderfoot First Aid, 30 day Fitness Plan
-- Eloise Lowrey - Rope Care, Pocket Knife Safety, Cyber Chip
-- Emory Martin - Rope Care, Pocket Knife Safety, Cyber Chip
-- Fiona Kimble - First Aid Kit, Hiking Rules, 30 day Fitness Plan
-- Hadley Baquero - Rope Care, Pocket Knife Safety, Cyber Chip
-- Isaac Hall - First Aid Kit, Hiking Rules
-- Lily Porter - First Aid Kit, Hiking Rules, Knife Sharpening
-- Matthew Pinix - Rope Care, Pocket Knife Safety, Cyber Chip
-- Miren Greene - Rope Care, Pocket Knife Safety, Cyber Chip
-- Oliver Price - Rope Care, Pocket Knife Safety, Cyber Chip
-- Owen Radtke - First Aid Kit, Hiking Rules, Tenderfoot First Aid
-- Piper Kingston - Rope Care, Pocket Knife Safety, Cyber Chip
-- Damian Nikolaus - Tenderfoot Fitness
-- Solomon Rader - Tenderfoot Fitness, Budgeting
-- Lucy Lyden - Budgeting, Shopping Plan
+First Class Req 8a, 8b - Fitness 
+- Robbie
+- Quinn 
 
-## Important Update for Wreath Sales 
+First Class Req 9b - Environmental Issues 
+- Henry
+- Quinn
+- Robbie
+
+### **Younger Scouts**
+ 
+Scout Req 4b / 6 - Care of Rope / Cyber Chip
+- Aubrey
+- Eloise
+- Emory
+- Hadley
+- Miren
+- Oliver P
+- Simon
+
+Scout Req 4a - Knots
+- Aubrey
+- Eloise
+- Emory
+- Hadley
+- Miren
+- Oliver P
+- Simon
+
+Second Class Req 7a - Fitness
+- Damien
+- Jameson
+- Lee
+- Oscar
+- Solomon
+- Winnie
+
+Second Class Req 8C - Budget and Plan.
+- Jameson
+- Lucy
+- Oscar
+- Solomon
+
+Tenderfoot Req 4d - First Aid Kit
+- Adi
+- Ben
+- Fiona
+- Lily
+- Owen
+
+Tenderfoot Req 5d - Hiking 
+- Isaac
+- Owen
+- Fiona
+
+
+## Wreath Sale are Rounding the Corner
+
+Wreath sales are underway, and over half of our scouts are participating so far, which is encouraging! We're confident the rest will get fired up soon and start selling at least a few wreaths.
+
+Several scouts have set sales goals and are making great progress toward reaching them, inspiring the rest of us!
+
+Total sales are approaching $4,000. Over $400 of that will be credited to Scout Accounts in December, after all the bills are paid.
+
+Remember, you can go to the Troop website to view your wreath sales progress and how much you've earned. The data is updated multiple times a day.
+
+[![Wreath Sales 1a](https://Troop79.b-cdn.net/Wreath-Sales-2026-1b.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-2026-1b.png)
+
+Shout-out to Eloise who recorded a video to send to friends and neighbors about the wreath sale. This approach has proven to be very effective! Next up, she will be gunning to earn a Salesmanship Merit Badge!
+
+[![Wreath Sales 1b](https://Troop79.b-cdn.net/Wreath-Sales-2026-1a.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-2026-1a.png)
+
+Check out your progress on the https://www.troop-79.com/member  
+  
+
+
+### Selling Tips and Enter Orders 
 
 There are **three** easy ways for you and your customers to order wreaths. Watch this **5 minute** video or read below (or do both).
 
@@ -107,9 +167,13 @@ The Troop website is now open to the general public for anyone to order a wreath
 
 - [troop-79.com/wreaths](https://troop-79.com/wreaths)
 
-When the general public buys a wreath they will have the opportunity to select your name **at checkout**. Of course, it would be far better to direct your friends, family, and neighbors to your personal page, but if you don't, and if they know you, they will have the option to give you credit for their purchase. Otherwise, the credit goes to the troop. People who use our generic page (because you didn't share your personal page with them) and don't order over $50 will be charged a $5 delivery fee if they want their wreath delivered.
+When someone purchases a wreath through the public page, they can select your name at checkout so you receive credit for the sale.
 
-Please email us ASAP with any bugs, questions, or confusion. 
+Of course, it's better to direct friends, family, and neighbors to your **personal page**. But if they use the public page and know your name, they can still give you credit for their purchase. Otherwise, the credit goes to the troop.
+
+Customers using the public page who order less than $50 will be charged a $5 delivery fee if they choose delivery.  This charge does not appear if they use your personal page.
+
+Please email us ASAP with any questions or confusion. 
 
 
 ## Wreath Dates, Deadlines, Details
@@ -149,57 +213,13 @@ Please email us ASAP with any bugs, questions, or confusion.
 - Again, thanks in advance for making this a successful fundraiser for your scout and the Troop!
 - Happy selling!!
 
-## Pumpkin Pavilion Service Project
-
-**Friday**, Oct 23, 2026, 12:00–2:00 (MPS is off school)  
-**Uniform:** Optional Class B Uniform    
-**Location:** Humboldt Park Pavilion  
-
-Bay View Pumpkin Pavilion 2026 is Oct 21-24. On the first two days, the public is invited to carve pumpkins. 
-
-On the 23rd, volunteers from Troop 79 set up all the pumpkins in a giant display in the park.
-
-Every year, the Bay View Neighborhood Association invites families to this annual Bay View tradition. This four-day, family-friendly event brings over 10,000 Milwaukee neighbors to Humboldt Park Pavilion. Guests come to carve pumpkins, admire the display of 1,000 lit pumpkins, enjoy live music, eat local food, and embrace the fun that is Halloween. This event is entirely volunteer-powered. Since its inception, the Pumpkin Pavilion has added attractions, displays and new events each year.
-
-[![Pumpkin Pavilion Service Project](https://Troop79.b-cdn.net/Pumpkin-Pavilion-24..png){.img-400}](https://photos.app.goo.gl/Sv6fScCix74fxHya9)
-
-
-## High Cliff Weekend - A Towering Success
-
-A beautiful, gorgeous, dry weekend of camping at High Cliff State Park. 
-
-- 3.6 miles of hiking (According to Henry's watch).
-- Explored the many cliffs of the park.
-- Navigated down the steep path to the beach.
-- Climbed the tower.
-- Aubrey doing most of the hike on crutches!!
-- Picked surprisingly delicious wild apples (Ronnie)
-- Foraged wild parsnip (Ronnie again!).
-- Lake Winnebago wading - shallow but cold!
-- Backpacking hot lunch by the beach (Henry).
-- Roasted hickory nuts over an open fire (Melissa).
-- Pounded acorns to make acorn butter (Owen).
-- Discovered a walking stick with five legs (Mike).
-- A three headed discourse in Southern Baseball at the evening campfire (Jack, Ronnie, Henry).
-- Riptide sing along (Maya).
-- A Madlib story (Winnie).
-- New songs at the campfire. 
-- It was raining acorns all weekend - the kind of rain we like! 
-- All the tents were dry! Nothing to hang.
-- Scout-led cooking - Pancakes, sausage, bacon, spaghetti, and gluten-free Dutch oven cobblers.
-- Twenty scouts and adults attended this amazing weekend.
-
-Click the image below to see pictures and videos from the weekend. Please add your own to our collection.
-
-[![High Cliff State Park](https://Troop79.b-cdn.net/High-Cliff-26-Group.png){.img-400}](https://photos.app.goo.gl/TgGA1swCQ1LZEW8B7)
-
 
 ## Sparklers
 
-- To the man on crutches, dressed in camouflage, who stole my wallet.... You can hide, but you can't run.
-- I phoned up the spiritual leader of Tibet. He sent me a large goat with a long neck. Turns out I phoned dial a lama.
-- My grandfather invented the cold air balloon, but it never really took off.
-- My girlfriend...It's difficult to say what she does...she sells seashells on the seashore.
-- As a child I watched Mary Poppins so many times I suffered from a condition with my sight. Umdiddleiddleiddleumdiddle Eye.
+- You know the animal that kills the most people in the world? The Hepatitis Bee.
+- The pollen count, now that's a difficult job. Especially if you've got hay fever.
+- You know I used to work at Ikea, selling over 7,000 products. Give me a number between 1-7,000 I'll tell you about it. Sorry out of stock, lucky you chose that one.
+- I like to keep to myself. I ordered a book on the internet, 'How to have absolutely nothing to do with your neighbors'. Unfortunately I was out when it was delivered.
+- A lot of people like cats. Take the Pope, for example: I read recently that he was a cat-oholic!
 
 ---
