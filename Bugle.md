@@ -3,30 +3,44 @@ title: "Troop 79 Bugle"
 # Troop 79 Bugle
 **October 23, 2026**
 
+## Coming to Your Inbox - A Bugler
+
+Troop members will soon receive an email from the "Troop 79 Bugler". This new email from the Patrol Leaders' Council (PLC) shares this week's plan for scouts and adults. 
+
+A "magic" link in the email takes you to your family's webpage where you let us know if "Yes, I'm Coming" to the meeting this Sunday, **and** if yes, whether the plan the PLC has developed for you individually looks good. 
+
+You can also change the plan, or request something different. Adults and parents can offer to help teach a skill. 
+
+The Bugler email is a pilot project and we expect rough edges, so feedback is welcome.  We thank you for your patience, understanding, and perspective as we work out bugs. When the Bugler email flow works as intended it will help the PLC tremendously with planning and allow them to do their job even better.
+
+Of course, you will also continue receiving the Bugle. So, expect **two** emails: The Bugle and The Bugler.
+
+
+
 ## Troop Calendar 
 
 **Recent Updates**  
+- Troop Meeting dates through end of February\ 2027
 - Winter Camp dates 
-- Wreath Pickup dates
-- Troop Meeting dates thru end-of-year
+- Wreath pickup dates
+
 
 [![Troop Calendar](https://Troop79.b-cdn.net/Calendar-Month-Icon.png)](https://www.troop-79.com/events)
-_[Click Image to see Calendar Page]_
+_[Click the Image to view Calendar]_
 
 ## Troop Meeting This Sunday
 
 <table style="border:0; border-collapse:collapse;" cellpadding="0" cellspacing="0"><tr>                                                                                                                                    
 <td style="vertical-align:top; padding-right:40px;">       
 
-**Sunday**, Oct 25, 2026, 4:00–5:30  
-**Uniform:** Class B Uniform    
-**Location:** Northwoods 1572 E Capitol Drive  
+**Sunday**, Nov 1, 2026, 4:00–5:30  
+**Uniform:** Brewers gear, Halloween costume, Class B, or Class A - Your Choice!  
+**Location:** Northwoods, 1572 E Capitol Drive   
 **Snack:** Popcorn  
 
 </td>
 <td style="vertical-align:middle;">
-<img src="https://Troop79.b-cdn.net/Class-B-Uniform.png" class="scout-img-40" alt="Class B Uniform" />
-
+<img src="https://Troop79.b-cdn.net/Brewer-Gear.png" class="img-250" alt="Brewer Gear or Halloween Costume" />
 </td>
 </tr></table>
 
@@ -34,102 +48,109 @@ _[Click Image to see Calendar Page]_
 
 - **3:50** - Arrive early and help make **popcorn**! 
 - **4:00** - Flag ceremony and SPL messages. Led by SPL
-- **4:15** - Open Advancement (See Below)
-- **5:10** - A New Game (picked by PLC)
-- **5:25** - Scoutmaster's Minute, final messages.
+- **4:15** - Elections
+- **4:30** - First Aid Emphasis (See Below)
+- **5:15** - A New Game?
+- **5:25** - Scoutmaster's Minute
 
-### **Older Scouts**
+### Elections
 
-Cyber Chip for Star
-- Anjali
-- Finn
+Scouts at this Sunday's meeting will elect a Senior Patrol Leader (SPL) and two Assistant Senior Patrol Leaders (ASPL) to represent them for the next 6-12 months. All youth members of the troop present will vote by secret ballot. Any scout who is First Class or above, or 9th grade or above is eligible to be SPL. Previous SPLs can run for re-election. In Troop 79, the runners-up become the ASPLs. The new SPL will then work with her/his team and adult leaders to organize patrols. Elections for Patrol Leaders will be held next week.
 
-Citizenship in Community Req 1
-- Jack 
-- Ronnie
-- Finn
+Scouts Eligible for SPL / ASPL are:
 
-Communications Req 2 or Req 3 - Persuasive Presentation or 5 Minute Speech
-- Anjali 
-- Hazel
-- Finn
-- Jack
-- Oliver K
+- Hazel Stollenwerk 
+- Henry Ellerman
+- Anjali Sankpal-Tatera
+- Quinn Barry
+- Violet Babby
+- Veronica Kleinfeldt 
+- Oliver Kosmoski 
+- Finn Paltzer 
+- Kevin Pieper 
+- Jack Porter 
+- Oliver Vest
 
-First Class Req 8a, 8b - Fitness 
-- Robbie
-- Quinn 
+### First Aid / First Year Group / Citizenship in Community
 
-First Class Req 9b - Environmental Issues 
-- Henry
-- Quinn
-- Robbie
+After elections, we will break into groups:
 
-### **Younger Scouts**
- 
-Scout Req 4b / 6 - Care of Rope / Cyber Chip
-- Aubrey
-- Eloise
-- Emory
-- Hadley
-- Miren
-- Oliver P
-- Simon
+**New Scouts**
+- Scout Group 1 - Continue to work to finish requirements for the Scout rank. Hopefully we'll get it done!
+  - Eloise 
+  - Emery 
+  - Hadley 
+  - Miren
+  - Oliver P
+  - Simon
 
-Scout Req 4a - Knots
-- Aubrey
-- Eloise
-- Emory
-- Hadley
-- Miren
-- Oliver P
-- Simon
+- Scout Group 2 - Finish their Cyber Chip requirements for Scout and then move on to First Aid requirements for Tenderfoot
+  - Aubrey
+  - Piper
 
-Second Class Req 7a - Fitness
-- Damien
-- Jameson
-- Lee
-- Oscar
-- Solomon
-- Winnie
+**Tenderfoot Group**
+- First aid for Tenderfoot
+  - Adi 
+  - Ben 
+  - Simon 
 
-Second Class Req 8C - Budget and Plan.
-- Jameson
-- Lucy
-- Oscar
-- Solomon
+**Second Class Group**
+- First aid for Second Class
+  - Fiona 
+  - Isaac 
+  - Jamieson 
+  - Lily
 
-Tenderfoot Req 4d - First Aid Kit
-- Adi
-- Ben
-- Fiona
-- Lily
-- Owen
+**First Class Group**
+- First aid for First Class
+  - Lee 
+  - Lucy 
+  - Owen 
+  - Quinn (Help Teach)
+  - Robbie
+  - Solomon
+  - Violet
+  - Winnie
 
-Tenderfoot Req 5d - Hiking 
-- Isaac
-- Owen
-- Fiona
+**Merit Badge Group**
+ - First Aid Merit Badge
+   - Anjali
+   - Finn 
+   - Hazel 
+   - Oscar
+
+ - Citizenship in the Community Merit Badge
+   - Damian
+   - Henry
+   - Jack 
+   - Kevin 
+
+**Troop Guides**
+  - Oliver V - Teaching the First Class First Aid Group
 
 
-## Wreath Sale are Rounding the Corner
+## Wreath Sales Top $5,000 - Halfway to our Goal
 
-Wreath sales are underway, and over half of our scouts are participating so far, which is encouraging! We're confident the rest will get fired up soon and start selling at least a few wreaths.
+Over half of our scouts have sold at least one wreath! Two scouts even made personalized videos, and not surprisingly, they're our top salespeople!
+
+Watch Anjali's video below. It was posted as a reel to Facebook and Instagram with a link to her page: troop-79.com/wreaths/anjali-s. 
+
+The video took her just 10 minutes to make, and she already has $500 in sales!
+
+[![Anjali Wreath Promo Video](https://Troop79.b-cdn.net/Anjali-Wreath-Promo.png){.img-400}](https://player.mediadelivery.net/play/781797/6c1e717d-8eb2-4e51-9f08-652b304af2b1)
 
 Several scouts have set sales goals and are making great progress toward reaching them, inspiring the rest of us!
 
-Total sales are approaching $4,000. Over $400 of that will be credited to Scout Accounts in December, after all the bills are paid.
+Remember, you can go to the Troop website to view your wreath sales progress and how much you've earned. The data is updated daily.
 
-Remember, you can go to the Troop website to view your wreath sales progress and how much you've earned. The data is updated multiple times a day.
+[![Wreath Sales 1a](https://Troop79.b-cdn.net/Wreath-Sales-Week4a.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-Week4a.png)
 
-[![Wreath Sales 1a](https://Troop79.b-cdn.net/Wreath-Sales-2026-1b.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-2026-1b.png)
 
-Shout-out to Eloise who recorded a video to send to friends and neighbors about the wreath sale. This approach has proven to be very effective! Next up, she will be gunning to earn a Salesmanship Merit Badge!
+[![Wreath Sales 1b](https://Troop79.b-cdn.net/Wreath-Sales-Week4b.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-Week4b.png)
 
-[![Wreath Sales 1b](https://Troop79.b-cdn.net/Wreath-Sales-2026-1a.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-2026-1a.png)
-
-Check out your progress on the https://www.troop-79.com/member  
+Check out your progress here: https://www.troop-79.com/member  
   
+If we hit our goal of $10,000 in sales, Jason has promised us all a pizza party at an upcoming troop meeting!
 
 
 ### Selling Tips and Enter Orders 
@@ -178,12 +199,6 @@ Please email us ASAP with any questions or confusion.
 
 ## Wreath Dates, Deadlines, Details
 
-**Tuesday, October 20th**  
-
-- First batch of orders due. The wreath vendor needs this for production planning.
-- If you are not using the website, then please phone Summer Kimble at 414-378-9901 or summer.curtis@yahoo.com with your order.
-- Money is due at the same time.
-
 **Sunday, November 15th**  
 
 - Second / final batch of orders due. 
@@ -216,10 +231,10 @@ Please email us ASAP with any questions or confusion.
 
 ## Sparklers
 
-- You know the animal that kills the most people in the world? The Hepatitis Bee.
-- The pollen count, now that's a difficult job. Especially if you've got hay fever.
-- You know I used to work at Ikea, selling over 7,000 products. Give me a number between 1-7,000 I'll tell you about it. Sorry out of stock, lucky you chose that one.
-- I like to keep to myself. I ordered a book on the internet, 'How to have absolutely nothing to do with your neighbors'. Unfortunately I was out when it was delivered.
-- A lot of people like cats. Take the Pope, for example: I read recently that he was a cat-oholic!
+- My uncle used to work 12 hours a day just to put food on the table for his family. He was an amazing man. Slowest cook ever.
+- Now is the perfect time to buy discounted skydiving tickets. They're having a big fall sale.
+- In the past year, 9 people passed away from weightlifting accidents. In that same time, only one passed away from eating a donut. Make the safe choice.
+- If you're depressed and your name is "Morgan," spend the first half of the day in Germany for some positive affirmation.
+- I'm reading a book called "The History of Glue". I can't put it down.
 
 ---
