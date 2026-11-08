@@ -1,152 +1,102 @@
 title: "Troop 79 Bugle"
 
 # Troop 79 Bugle
-**October 23, 2026**
-
-## Coming to Your Inbox - A Bugler
-
-Troop members will soon receive an email from the "Troop 79 Bugler". This new email from the Patrol Leaders' Council (PLC) shares this week's plan for scouts and adults. 
-
-A "magic" link in the email takes you to your family's webpage where you let us know if "Yes, I'm Coming" to the meeting this Sunday, **and** if yes, whether the plan the PLC has developed for you individually looks good. 
-
-You can also change the plan, or request something different. Adults and parents can offer to help teach a skill. 
-
-The Bugler email is a pilot project and we expect rough edges, so feedback is welcome.  We thank you for your patience, understanding, and perspective as we work out bugs. When the Bugler email flow works as intended it will help the PLC tremendously with planning and allow them to do their job even better.
-
-Of course, you will also continue receiving the Bugle. So, expect **two** emails: The Bugle and The Bugler.
+**November 8, 2026**
 
 
-
-## Troop Calendar 
-
-**Recent Updates**  
-- Troop Meeting dates through end of February\ 2027
-- Winter Camp dates 
-- Wreath pickup dates
-
-
-[![Troop Calendar](https://Troop79.b-cdn.net/Calendar-Month-Icon.png)](https://www.troop-79.com/events)
-_[Click the Image to view Calendar]_
-
-## Troop Meeting This Sunday
+## This Sunday - Climbing MB / Citizenship MBs
 
 <table style="border:0; border-collapse:collapse;" cellpadding="0" cellspacing="0"><tr>                                                                                                                                    
 <td style="vertical-align:top; padding-right:40px;">       
 
-**Sunday**, Nov 1, 2026, 4:00–5:30  
-**Uniform:** Brewers gear, Halloween costume, Class B, or Class A - Your Choice!  
+**Sunday**, Nov 8, 2026, 4:00–5:30  
+**Uniform:** Class B   
 **Location:** Northwoods, 1572 E Capitol Drive   
 **Snack:** Popcorn  
 
 </td>
 <td style="vertical-align:middle;">
-<img src="https://Troop79.b-cdn.net/Brewer-Gear.png" class="img-250" alt="Brewer Gear or Halloween Costume" />
+<img src="https://Troop79.b-cdn.net/Class-B-Uniform.png" class="scout-img-40" alt="Class B Uniform" />
 </td>
 </tr></table>
 
+
 ### Meeting Plan
 
+- **3:40** - Aluminum can drive 
 - **3:50** - Arrive early and help make **popcorn**! 
 - **4:00** - Flag ceremony and SPL messages. Led by SPL
-- **4:15** - Elections
-- **4:30** - First Aid Emphasis (See Below)
-- **5:15** - A New Game?
+- **4:15** - Patrol Leader Elections
+- **4:30** - Climbing MB
+- **4:30** - Citizenship in the Community MB
+- **5:15** - Ninja!
 - **5:25** - Scoutmaster's Minute
+
+### Aluminum can drive today!
+Bring your aluminum cans to the loading dock before today's meeting. Assistance from a junior leader to weigh and record the cans would be appreciated. 
+
+Scout account balances are on the Troop website.
+
+[![Scout Account Page](https://Troop79.b-cdn.net/Scout-account-page..png){.img-300}](https://www.troop-79.com/member)
 
 ### Elections
 
-Scouts at this Sunday's meeting will elect a Senior Patrol Leader (SPL) and two Assistant Senior Patrol Leaders (ASPL) to represent them for the next 6-12 months. All youth members of the troop present will vote by secret ballot. Any scout who is First Class or above, or 9th grade or above is eligible to be SPL. Previous SPLs can run for re-election. In Troop 79, the runners-up become the ASPLs. The new SPL will then work with her/his team and adult leaders to organize patrols. Elections for Patrol Leaders will be held next week.
+Scouts at this Sunday's meeting will form patrols and elect Patrol Leaders to represent them for the next 6-12 months. All youth members of the troop present will vote by secret ballot. Any scout is eligible to be a PL or Assistant PL. The patrol leaders will then lead the group in deciding if they want a new patrol name.
 
-Scouts Eligible for SPL / ASPL are:
+Here is the draft plan for the patrols. If you have any concerns about this arrangement, see the senior patrol leader or one of his ASPLs.
 
-- Hazel Stollenwerk 
-- Henry Ellerman
-- Anjali Sankpal-Tatera
-- Quinn Barry
-- Violet Babby
-- Veronica Kleinfeldt 
-- Oliver Kosmoski 
-- Finn Paltzer 
-- Kevin Pieper 
-- Jack Porter 
-- Oliver Vest
-
-### First Aid / First Year Group / Citizenship in Community
-
-After elections, we will break into groups:
-
-**New Scouts**
-- Scout Group 1 - Continue to work to finish requirements for the Scout rank. Hopefully we'll get it done!
-  - Eloise 
-  - Emery 
-  - Hadley 
-  - Miren
-  - Oliver P
-  - Simon
-
-- Scout Group 2 - Finish their Cyber Chip requirements for Scout and then move on to First Aid requirements for Tenderfoot
-  - Aubrey
-  - Piper
-
-**Tenderfoot Group**
-- First aid for Tenderfoot
-  - Adi 
-  - Ben 
-  - Simon 
-
-**Second Class Group**
-- First aid for Second Class
-  - Fiona 
-  - Isaac 
-  - Jamieson 
-  - Lily
-
-**First Class Group**
-- First aid for First Class
-  - Lee 
-  - Lucy 
-  - Owen 
-  - Quinn (Help Teach)
-  - Robbie
-  - Solomon
-  - Violet
-  - Winnie
-
-**Merit Badge Group**
- - First Aid Merit Badge
-   - Anjali
-   - Finn 
-   - Hazel 
-   - Oscar
-
- - Citizenship in the Community Merit Badge
-   - Damian
-   - Henry
-   - Jack 
-   - Kevin 
-
-**Troop Guides**
-  - Oliver V - Teaching the First Class First Aid Group
+[![Patrols Nov 2026](https://Troop79.b-cdn.net/Patrols-Nov-2026.png){.img-400}](https://Troop79.b-cdn.net/Patrols-Nov-2026.png)  
 
 
-## Wreath Sales Top $5,000 - Halfway to our Goal
+### Climbing Merit Badge - Part I
 
-Over half of our scouts have sold at least one wreath! Two scouts even made personalized videos, and not surprisingly, they're our top salespeople!
+In preparation for next Sunday afternoon's visit to Turner Hall, scouts will rotate through three stations learning: climbing knots, climbing terms and vocabulary, and climbing safety. Should be a fun and (mostly) hands-on chance to get ready for next week.  Adult or junior leaders with experience are invited to help out.  
 
-Watch Anjali's video below. It was posted as a reel to Facebook and Instagram with a link to her page: troop-79.com/wreaths/anjali-s. 
+### Citizenship Merit Badges - Continued
 
-The video took her just 10 minutes to make, and she already has $500 in sales!
-
-[![Anjali Wreath Promo Video](https://Troop79.b-cdn.net/Anjali-Wreath-Promo.png){.img-400}](https://player.mediadelivery.net/play/781797/6c1e717d-8eb2-4e51-9f08-652b304af2b1)
-
-Several scouts have set sales goals and are making great progress toward reaching them, inspiring the rest of us!
-
-Remember, you can go to the Troop website to view your wreath sales progress and how much you've earned. The data is updated daily.
-
-[![Wreath Sales 1a](https://Troop79.b-cdn.net/Wreath-Sales-Week4a.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-Week4a.png)
+Older Scouts who have already earned Climbing Merit Badge will work on Citizenship in the Community with Jason or Citizenship in the Nation.
 
 
-[![Wreath Sales 1b](https://Troop79.b-cdn.net/Wreath-Sales-Week4b.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-Week4b.png)
+## Climbing at Turner Hall - Next Sunday  
+
+Date: Sunday, November 15, 2026
+**Time: 1:00 - 4:30**
+Location: Turner Hall Gym - Downtown Milwaukee, 1034 Vel R. Phillips Ave
+Cost: $20 per youth, $25 per adult
+
+Sign Up Here: https://www.troop-79.com/events/142/signup
+
+The Troop Meeting next Sunday will feature Climbing Merit Badge. We will meet at Turner Hall starting at 1:00pm. Scouts will have an opportunity to belay each other, try a variety of climbing styles, and learn about climbing gear and equipment.  This badge is always fun!
+
+Webelos, siblings and friends are invited to join us. Scouts who need a ride can reply to this email and we'll coordinate carpooling. 
+
+Here are the photos and videos from the last time we did Climbing Merit Badge several years ago.
+
+[![Climbing at Turner Hall 2024](https://Troop79.b-cdn.net/Climbing-MB-at-Turner-Hall..png){.img-400}](https://photos.app.goo.gl/WiH2P53xnr7C1DEG8)
+
+
+## Troop Calendar 
+
+**Recent Updates**  
+
+ - Agenda for Today's Meeting
+
+[![Troop Calendar](https://Troop79.b-cdn.net/Calendar-Month-Icon.png)](https://www.troop-79.com/events)
+_[Click the Image to view Calendar]_
+
+
+## Wreath Sales reach $5,300 - We're Halfway to our Goal
+
+Now that Halloween is over and temperatures have dipped, neighbors, friends, and relatives have finally started thinking about Thanksgiving -- wait, I mean Christmas, and they are now even more receptive to buying a wreath from you!
+
+Make a simple flyer to distribute to neighbors on your street. Include a link to your personal website. I'll bet you can get some sales.
+
+Sign in to the Troop website to view your wreath sales progress and see how much you've earned. The data is updated daily.
+
+[![Wreath Sales 1a](https://Troop79.b-cdn.net/Wreath-Sales-Nov8-2026a.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-Nov8-2026a.png)
+
+
+[![Wreath Sales 1b](https://Troop79.b-cdn.net/Wreath-Sales-Nov8-2026b.png){.img-600}](https://Troop79.b-cdn.net/Wreath-Sales-Nov8-2026b.png)
 
 Check out your progress here: https://www.troop-79.com/member  
   
@@ -215,7 +165,6 @@ Please email us ASAP with any questions or confusion.
 **Money Collection & Payments**
 - Customers who use the website can pay immediately via Venmo, PayPal, or credit card.
 - Scouts can also collect money at time of order OR at delivery, we are leaving this up to each family. However, Scout families must pay before orders will be sent to Rose Wreath. 
-- Money is due when orders are submitted. Please continue to sell after 10/20 then additional order money will be due before or on 11/15. 
 - If scouts/families don't collect money from customers at time of order, they will have to front the money until delivery when money is collected from customers.
 - Customers can pay parents in any manner parents prefer. Parents will need to submit one lump sum for their scout when orders are due. 
 - Your family's payments of cash, check or electronic payment to the Troop's PayPal or Venmo accounts will be accepted. All payments and questions about payments should be directed to Patrick Bieser.
@@ -223,18 +172,30 @@ Please email us ASAP with any questions or confusion.
 **Pick Up & Delivery**
 - Please deliver to customers promptly after you pick up your wreaths on Saturday, November 21. Scouts should let customers know when they should expect their product(s) ahead of time.
 - Scouts and their families will be responsible for picking up their orders at Northwoods on November 21 and delivering to customers. 
-- Talk to Patrick Bieser (414-915-6423) if you need an alternative pick up date / time. The wreaths will be stored at Northwoods until then. 
+- Talk to Patrick Bieser (414-915-6423) if you need an alternative pick up date or time. The wreaths will be stored at Northwoods until then. 
 - Please reach out to any of the Wreath Fundraising Committee members (Summer Kimble, Kristin Paltzer, Kara Pitt-D’Andrea) with questions.
 - Again, thanks in advance for making this a successful fundraiser for your scout and the Troop!
 - Happy selling!!
 
 
+## A Bugler in your Inbox
+
+Troop members will once again receive a second email from the "Troop 79 Bugler" with this week's plan for scouts and adults. 
+
+A "magic" link in the email takes you to your family's webpage where you let us know if "Yes, I'm Coming" to the meeting this Sunday, **and** if yes, whether the plan we made looks good. 
+
+You can request something different. Adults and parents can offer to help teach a skill. 
+
+Of course, you will also continue receiving the Bugle. So, expect **two** emails: The Bugle and The Bugler.
+
+
+
 ## Sparklers
 
-- My uncle used to work 12 hours a day just to put food on the table for his family. He was an amazing man. Slowest cook ever.
-- Now is the perfect time to buy discounted skydiving tickets. They're having a big fall sale.
-- In the past year, 9 people passed away from weightlifting accidents. In that same time, only one passed away from eating a donut. Make the safe choice.
-- If you're depressed and your name is "Morgan," spend the first half of the day in Germany for some positive affirmation.
-- I'm reading a book called "The History of Glue". I can't put it down.
+- Velcro: what a rip-off.  
+- When I left for college, my mom said "Don't forget to write." I thought, That's unlikely... it's a pretty basic skill.  
+- Did you know there are twice as many eyebrows in the world as there are people?  
+- Did you know that when you die, the last thing to stop working is your pupils? They dilate.  
+- If you bring vegetables to a football watch party, you could be penalized for unnecessary roughage.  
 
 ---
